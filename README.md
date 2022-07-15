@@ -28,14 +28,14 @@
 Data available since: UD v2.11
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: fiction
+Genre: spoken
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Ebert, Christian; Sonnenhauser, Barbara; Widmer, Paul
+Contributors: Ebert, Christian; Islamaj, Artan; Kuqi, Adrian; Sonnenhauser, Barbara; Widmer, Paul; Plamada, Magdalena
 Contributing: here
-Contact: christiangeorg.ebert@uzh.ch
+Contact: christiangeorg.ebert@uzh.ch, barbara.sonnenhauser@uzh.ch, paul.widmer@uzh.ch
 ===============================================================================
 </pre>
