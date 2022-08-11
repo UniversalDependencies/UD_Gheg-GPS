@@ -1713,7 +1713,7 @@
 6	nuk	nuk	PART	_	Polarity=Neg	7	advmod	_	_
 7	merr	marr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
 8	edhe	edhe	CCONJ	_	_	11	cc	_	_
-9	se	se	SCONJ	_	_	9	fixed	_	_
+9	se	se	SCONJ	_	_	8	fixed	_	_
 10	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	11	obj	_	_
 11	pa:	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
 12	që	që	SCONJ	_	_	15	mark	_	_
@@ -3581,7 +3581,7 @@
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = Z-A-G1-NEKU60_12
-# text = përseri: i vëndo:s në shpo:rt dhë ni:sëtë ëdhë: djemtë:h vazhdo:jn në rru:güen e ty:re .
+# text = përseri: i vëndo:s në shpo:rt dhë ni:sëtë ëdhë: djemtë:h vazhdo:jn në rru:gën e ty:re .
 1	përseri:	përsëri	ADV	_	_	3	advmod	_	_
 2	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	3	obj	_	_
 3	vëndo:s	vendosi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -4431,7 +4431,7 @@
 # sent_id = Z-A-G3-ARTI09_7
 # text = tani u shku tani e ka pa ni qik ë e ka kshy:r .
 1	tani	tani	ADV	_	_	3	advmod	_	_
-2	u	u	AUX	_	_	3	mark	_	_
+2	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	shku	shkoj	VERB	_	VerbForm=Part	0	root	_	_
 4	tani	tani	ADV	_	_	7	advmod	_	_
 5	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	7	expl	_	_
@@ -9543,7 +9543,7 @@
 10	posht	poshtë	ADV	_	_	7	advmod	_	_
 11	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = Z-A-G2-BEKA87_20
+# sent_id = Z-A-G2-BEKA87_23
 # text = edhe e dikton që komplet ni shport me dardha o tu mungu: edhe i sheh ata tre djemt /tu: he:c me ka ni da:rdh n dor u kry .
 1	edhe	edhe	CCONJ	_	_	3	cc	_	_
 2	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	3	expl	_	_
