@@ -2528,9 +2528,9 @@
 6	edhe:	edhe	CCONJ	_	_	11	cc	_	_
 7	ë	ëhm	INTJ	_	_	11	discourse	_	_
 8	i	i	DET	_	Case=Acc|Number=Plur|Person=3	11	reparandum	_	_
-9	hend	hend	AUX	_	Foreign=Yes	11	aux	_	Lang=gsw
-10	ihm	ihm	PRON	_	Foreign=Yes	11	obj	_	Lang=gsw
-11	gholfe	gholfe	VERB	_	Foreign=Yes	3	conj	_	Lang=gsw
+9	hend	_	AUX	_	Foreign=Yes	11	aux	_	Lang=gsw
+10	ihm	_	PRON	_	Foreign=Yes	11	obj	_	Lang=gsw
+11	gholfe	_	VERB	_	Foreign=Yes	3	conj	_	Lang=gsw
 12	me	me	PART	_	_	14	mark	_	_
 13	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	14	expl	_	_
 14	shty	shtyj	VERB	_	VerbForm=Inf	11	xcomp	_	_
@@ -4391,7 +4391,7 @@
 7	njeri	njeri	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	_
 8	me	me	ADP	_	_	10	case	_	_
 9	ni	një	DET	_	_	10	det	_	_
-10	zige	Ziege	NOUN	_	Foreign=Yes	5	obl	_	Lang=gsw
+10	zige	_	NOUN	_	Foreign=Yes	5	obl	_	Lang=gsw
 11	ëh:	ëhm	INTJ	_	_	5	discourse	_	_
 12	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -4449,10 +4449,10 @@
 # text = tani ëm isch sini kappe abecheit ë .
 1	tani	tani	ADV	_	_	6	advmod	_	_
 2	ëm	ëhm	INTJ	_	_	6	discourse	_	_
-3	isch	sein	AUX	_	Foreign=Yes	6	aux	_	Lang=gsw
-4	sini	sein	PRON	_	Foreign=Yes	5	nmod	_	Lang=gsw
-5	kappe	Kappe	NOUN	_	Foreign=Yes	6	nsubj	_	Lang=gsw
-6	abecheit	abecheit	VERB	_	Foreign=Yes	0	root	_	Lang=gsw
+3	isch	_	AUX	_	Foreign=Yes	6	aux	_	Lang=gsw
+4	sini	_	PRON	_	Foreign=Yes	5	nmod	_	Lang=gsw
+5	kappe	_	NOUN	_	Foreign=Yes	6	nsubj	_	Lang=gsw
+6	abecheit	_	VERB	_	Foreign=Yes	0	root	_	Lang=gsw
 7	ë	ëhm	INTJ	_	_	6	discourse	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -4463,15 +4463,15 @@
 3	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 4	kon	jam	AUX	_	VerbForm=Part	6	cop	_	_
 5	ni	një	DET	_	_	6	det	_	_
-6	stei	Stein	NOUN	_	Foreign=Yes	0	root	_	Lang=gsw
-7	ufm	auf	ADP	_	Foreign=Yes	8	case	_	Lang=gsw
-8	weg	Weg	NOUN	_	Foreign=Yes	6	obl	_	Lang=gsw
+6	stei	_	NOUN	_	Foreign=Yes	0	root	_	Lang=gsw
+7	ufm	_	ADP	_	Foreign=Yes	8	case	_	Lang=gsw
+8	weg	_	NOUN	_	Foreign=Yes	6	obl	_	Lang=gsw
 9	ëhm	ëhm	INTJ	_	_	14	discourse	_	_
 10	ëh	ëhm	INTJ	_	_	14	discourse	_	_
-11	und	und	CCONJ	_	Foreign=Yes	14	cc	_	Lang=gsw
-12	er	er	PRON	_	Foreign=Yes	14	nsubj	_	Lang=gsw
-13	isch	sein	AUX	_	Foreign=Yes	14	aux	_	Lang=gsw
-14	inegfahre	hineinfahren	VERB	_	Foreign=Yes	6	conj	_	Lang=gsw
+11	und	_	CCONJ	_	Foreign=Yes	14	cc	_	Lang=gsw
+12	er	_	PRON	_	Foreign=Yes	14	nsubj	_	Lang=gsw
+13	isch	_	AUX	_	Foreign=Yes	14	aux	_	Lang=gsw
+14	inegfahre	_	VERB	_	Foreign=Yes	6	conj	_	Lang=gsw
 15	e	e	CCONJ	_	_	18	cc	_	_
 16	tani	tani	ADV	_	_	18	advmod	_	_
 17	u	u	PART	_	_	18	mark	_	_
@@ -4482,11 +4482,11 @@
 22	jan	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	reparandum	_	_
 23	ëhm	ëhm	INTJ	_	_	29	discourse	_	_
 24	ëh	ëhm	INTJ	_	_	29	discourse	_	_
-25	hend	haben	AUX	_	Foreign=Yes	29	aux	_	Lang=gsw
-26	sich	sich	PRON	_	Foreign=Yes	29	obj	_	Lang=gsw
-27	am	am	ADP	_	Foreign=Yes	28	case	_	Lang=gsw
-28	bode	Boden	NOUN	_	Foreign=Yes	29	obl	_	Lang=gsw
-29	verteilt	verteilen	VERB	_	Foreign=Yes	6	conj	_	Lang=gsw
+25	hend	_	AUX	_	Foreign=Yes	29	aux	_	Lang=gsw
+26	sich	_	PRON	_	Foreign=Yes	29	obj	_	Lang=gsw
+27	am	_	ADP	_	Foreign=Yes	28	case	_	Lang=gsw
+28	bode	_	NOUN	_	Foreign=Yes	29	obl	_	Lang=gsw
+29	verteilt	_	VERB	_	Foreign=Yes	6	conj	_	Lang=gsw
 30	ëhm	ëhm	INTJ	_	_	34	discourse	_	_
 31	tani	tani	ADV	_	_	34	advmod	_	_
 32	ëhm	ëhm	INTJ	_	_	34	discourse	_	_
@@ -4553,9 +4553,9 @@
 13	ëhm	ëhm	INTJ	_	_	14	discourse	_	_
 14	kapuc/	kapuq	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	reparandum	_	_
 15	ëh	ëhm	INTJ	_	_	16	discourse	_	_
-16	kappe	kappe	NOUN	_	Foreign=Yes	9	obj	_	Lang=gsw
-17	vo	von	ADP	_	Foreign=Yes	18	case	_	Lang=gsw
-18	ihm	ihm	PRON	_	Foreign=Yes	16	nmod	_	Lang=gsw
+16	kappe	_	NOUN	_	Foreign=Yes	9	obj	_	Lang=gsw
+17	vo	_	ADP	_	Foreign=Yes	18	case	_	Lang=gsw
+18	ihm	_	PRON	_	Foreign=Yes	16	nmod	_	Lang=gsw
 19	ë:h	ëhm	INTJ	_	_	23	discourse	_	_
 20	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	23	iobj	_	_
 21	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	23	obj	_	_
@@ -6681,7 +6681,7 @@
 5	kejt	kejt	PRON	_	Case=Acc|Definite=Ind|Number=Plur	8	det	_	_
 6	ata	ata	PRON	_	Case=Acc|Gender=Masc|Number=Plur	8	det	_	_
 7	ëhm	ëhm	INTJ	_	_	8	discourse	_	_
-8	birne	Birne	NOUN	_	Foreign=Yes	4	obj	_	Lang=gsw
+8	birne	_	NOUN	_	Foreign=Yes	4	obj	_	Lang=gsw
 9	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
 10	qit	qeshi	VERB	_	VerbForm=Part	4	conj	_	_
 11	me	me	ADP	_	_	13	case	_	_
@@ -6707,8 +6707,8 @@
 14	tinza	tinza	ADV	_	_	16	advmod	_	_
 15	ëhm	ëhm	INTJ	_	_	16	discourse	_	_
 16	korben	korbë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	11	obj	_	_
-17	mit	mit	ADP	_	Foreign=Yes	18	case	_	Lang=gsw
-18	birne	Birne	NOUN	_	Foreign=Yes	16	nmod	_	Lang=gsw
+17	mit	_	ADP	_	Foreign=Yes	18	case	_	Lang=gsw
+18	birne	_	NOUN	_	Foreign=Yes	16	nmod	_	Lang=gsw
 19	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Z-A-G3-ARHU07_8
@@ -6759,7 +6759,7 @@
 # text = edhe tre jungs jan kan aty tani i kan bo helfe: i kan nimu .
 1	edhe	edhe	CCONJ	_	_	5	cc	_	_
 2	tre	tre	NUM	_	Gender=Masc|NumType=Card	3	nummod	_	_
-3	jungs	Junge	NOUN	_	Foreign=Yes	5	nsubj	_	Lang=gsw
+3	jungs	_	NOUN	_	Foreign=Yes	5	nsubj	_	Lang=gsw
 4	jan	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	kan	jam	VERB	_	VerbForm=Part	0	root	_	_
 6	aty	aty	ADV	_	_	5	advmod	_	_
@@ -6767,7 +6767,7 @@
 8	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	10	obj	_	_
 9	kan	kam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
 10	bo	baj	VERB	_	VerbForm=Part	5	conj	_	_
-11	helfe:	helfen	VERB	_	Foreign=Yes	10	xcomp	_	Lang=gsw
+11	helfe:	_	VERB	_	Foreign=Yes	10	xcomp	_	Lang=gsw
 12	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	14	obj	_	_
 13	kan	kam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
 14	nimu	ndihmoj	VERB	_	VerbForm=Part	10	conj	_	_
@@ -6781,7 +6781,7 @@
 4	djali:	djalë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	_
 5	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 6	shku	shkoj	VERB	_	VerbForm=Part	0	root	_	_
-7	wi:ter	weiter	ADV	_	Foreign=Yes	6	advmod	_	Lang=gsw
+7	wi:ter	_	ADV	_	Foreign=Yes	6	advmod	_	Lang=gsw
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = Z-A-G3-ARHU07_13
@@ -6791,7 +6791,7 @@
 3	djal	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	_
 4	ka:	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	bo	baj	VERB	_	VerbForm=Part	0	root	_	_
-6	pfeife	pfeifen	VERB	_	Foreign=Yes	5	xcomp	_	Lang=gsw
+6	pfeife	_	VERB	_	Foreign=Yes	5	xcomp	_	Lang=gsw
 7	tani	tani	ADV	_	_	10	advmod	_	_
 8	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	10	obj	_	_
 9	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
@@ -6853,7 +6853,7 @@
 14	d:ardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	9	obj	_	_
 15	ëhm	ëhm	INTJ	_	_	17	discourse	_	_
 16	per	per	ADP	_	_	17	case	_	_
-17	belo:nig	Belohnung	NOUN	_	Foreign=Yes	9	obl	_	Lang=gsw
+17	belo:nig	_	NOUN	_	Foreign=Yes	9	obl	_	Lang=gsw
 18	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = Z-A-G3-ARHU07_16
@@ -6864,7 +6864,7 @@
 4	djem	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	6	nsubj	_	_
 5	kan	kam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 6	shku	shkoj	VERB	_	VerbForm=Part	0	root	_	_
-7	ebe	eben	ADV	_	Foreign=Yes	6	advmod	_	Lang=gsw
+7	ebe	_	ADV	_	Foreign=Yes	6	advmod	_	Lang=gsw
 8	me	me	ADP	_	_	9	case	_	_
 9	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	_
 10	n	n	ADP	_	_	11	mark	_	_
@@ -6878,15 +6878,15 @@
 3	aty	aty	ADV	_	_	2	advmod	_	_
 4	te	te	ADP	_	_	5	reparandum	_	_
 5	te	te	ADP	_	_	6	case	_	_
-6	lichtung	Lichtung	NOUN	_	Foreign=Yes	11	obl	_	Lang=gsw
-7	vom	von	ADP	_	Foreign=Yes	8	case	_	Lang=gsw
-8	ma	Mann	NOUN	_	Foreign=Yes	6	nmod	_	Lang=gsw
+6	lichtung	_	NOUN	_	Foreign=Yes	11	obl	_	Lang=gsw
+7	vom	_	ADP	_	Foreign=Yes	8	case	_	Lang=gsw
+8	ma	_	NOUN	_	Foreign=Yes	6	nmod	_	Lang=gsw
 9	qe	që	PRON	_	PronType=Rel	11	nsubj	_	_
 10	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
 11	kan	jam	VERB	_	VerbForm=Part	2	parataxis	_	_
 12	aty	aty	ADV	_	_	11	advmod	_	_
 13	te:	te	ADP	_	_	12	case	_	_
-14	baum	Baum	NOUN	_	Foreign=Yes	11	obl	_	Lang=gsw
+14	baum	_	NOUN	_	Foreign=Yes	11	obl	_	Lang=gsw
 15	tani	tani	ADV	_	_	19	advmod	_	_
 16	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
 17	neri	njeri	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	nsubj	_	_
@@ -11798,7 +11798,7 @@
 6	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	7	obj	_	_
 7	pershkrun	përshkruj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
 8	ëh	ëhm	INTJ	_	_	9	discourse	_	_
-9	menschlikeit	Menschlichkeit	NOUN	_	Foreign=Yes	4	nsubj	_	Lang=gsw
+9	menschlikeit	_	NOUN	_	Foreign=Yes	4	nsubj	_	Lang=gsw
 10	qe	që	SCONJ	_	_	12	mark	_	_
 11	s	s	PART	_	Polarity=Neg	12	advmod	_	_
 12	muj	muj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	_
@@ -17798,7 +17798,7 @@
 22	korrba	korbë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	20	obj	_	_
 23	me	me	ADP	_	_	24	reparandum	_	_
 24	me	me	ADP	_	_	25	case	_	_
-25	birne	Birne	NOUN	_	Foreign=Yes	22	nmod	_	Lang=gsw
+25	birne	_	NOUN	_	Foreign=Yes	22	nmod	_	Lang=gsw
 26	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = Z-A-G3-POCA07_4
