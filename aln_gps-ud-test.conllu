@@ -1148,9 +1148,9 @@
 5	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	6	expl	_	_
 6	pash	shoh	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	ni	një	DET	_	_	8	det	_	_
-8	njer	njeri	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	njer	njeri	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	_
 9	tu	tu	PART	_	_	10	mark	_	_
-10	mle:dh:	mbledhi	VERB	_	VerbForm=Part	8	xcomp	_	_
+10	mle:dh:	mbledhi	VERB	_	VerbForm=Part	8	acl	_	_
 11	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	10	obj	_	_
 12	qe	që	PRON	_	PronType=Rel	13	nsubj	_	_
 13	hip	hipi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
@@ -5104,12 +5104,12 @@
 2	kan	kam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	shku:	shkoj	VERB	_	VerbForm=Part	0	root	_	_
 4	kan	kam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-5	kalu	kaloj	VERB	_	VerbForm=Part	3	conj	_	_
+5	kalu	kaloj	VERB	_	VerbForm=Part	3	parataxis	_	_
 6	aty	aty	ADV	_	_	5	advmod	_	_
 7	te	te	ADP	_	_	9	case	_	_
 8	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 9	neri	njeri	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	_
-10	qe	që	PRON	_	PronType=Rel	13	nsubj	_	_
+10	qe	që	SCONJ	_	_	13	mark	_	_
 11	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 12	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	13	expl	_	_
 13	nu:k	nuki	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	_
@@ -11244,19 +11244,19 @@
 
 # sent_id = P-A-G3-INRE03_6
 # text = ata: fmi:t e ndihmojn për m i ma:rr da:rdhat m i mle:dh .
-1	ata:	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	nsubj	_	_
-2	fmi:t	fmi	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
-3	e	e	PRON	_	Case=Dat|Number=Sing|Person=3	4	obj	_	_
-4	ndihmojn	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	nsubj	_	_
+1	ata:	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
+2	fmi:t	fmi	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	_
+3	e	e	PRON	_	Case=Dat|Number=Sing|Person=3	4	iobj	_	_
+4	ndihmojn	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	për	për	ADP	_	_	8	mark	_	_
 6	m	me	PART	_	_	8	mark	_	_
 7	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	8	expl	_	_
-8	ma:rr	marr	VERB	_	VerbForm=Inf	4	acl	_	_
+8	ma:rr	marr	VERB	_	VerbForm=Inf	4	xcomp	_	_
 9	da:rdhat	dardhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	8	obj	_	_
 10	m	me	PART	_	_	12	mark	_	_
 11	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	12	obj	_	_
-12	mle:dh	mbledhi	VERB	_	VerbForm=Inf	8	xcomp	_	_
-13	.	.	PUNCT	_	_	2	punct	_	_
+12	mle:dh	mbledhi	VERB	_	VerbForm=Inf	8	conj	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = P-A-G3-INRE03_7
 # text = edhe: po aj largo:hët po: fmi:t j a gje:jn edhe sheshi:rin që i ka ra: edhe e thi:rrin edhe j a je:p .
@@ -12357,7 +12357,7 @@
 9	gjat	gjatë	ADP	_	_	11	case	_	_
 10	qasaj	qasaj	PRON	_	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
 11	kohes	kohë	NOUN	_	Case=Abl|Definite=Def|Gender=Fem|Number=Sing	26	obl	_	_
-12	qi:	qi	PRON	_	PronType=Rel	18	nsubj	_	_
+12	qi:	që	SCONJ	_	_	18	mark	_	_
 13	qaj	qaj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
 14	buri	burrë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	_
 15	apet	apet	ADV	_	_	18	advmod	_	_
@@ -13720,7 +13720,7 @@
 9	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	10	expl	_	_
 10	jep	jap	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 11	kape:len	kapelë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	obj	_	_
-12	që	që	PRON	_	PronType=Rel	16	nsubj	_	_
+12	që	që	SCONJ	_	_	16	mark	_	_
 13	cilin	cilin	PRON	_	Gender=Masc|Number=Sing|PronType=Int	16	nsubj	_	_
 14	e	e	PRON	_	Case=Nom|Number=Sing|Person=3	16	expl	_	_
 15	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	16	aux	_	_
@@ -15294,7 +15294,7 @@
 2	kshtu	kështu	ADV	_	_	5	advmod	_	_
 3	mes	mes	ADP	_	_	4	case	_	_
 4	veti	veti	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	_
-5	ata	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	nsubj	_	_
+5	ata	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	dislocated	_	_
 6	tani	tani	ADV	_	_	10	advmod	_	_
 7	apet	apet	ADV	_	_	10	advmod	_	_
 8	ata	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
@@ -15444,7 +15444,7 @@
 17	ngat	ngat	ADP	_	_	19	case	_	_
 18	atina	atina	PRON	_	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
 19	bujkut	bujk	NOUN	_	Case=Abl|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	_
-20	qe	që	PRON	_	PronType=Rel	23	nsubj	_	_
+20	qe	që	SCONJ	_	_	23	mark	_	_
 21	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 22	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	_
 23	kan	jam	VERB	_	VerbForm=Part	19	acl	_	_
