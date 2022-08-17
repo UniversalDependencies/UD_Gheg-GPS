@@ -25,7 +25,7 @@
 6	ose	ose	CCONJ	_	_	8	cc	_	_
 7	ni	një	DET	_	_	8	det	_	_
 8	bujk	bujk	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	conj	_	_
-9	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	_
+9	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
 10	cili	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	12	nsubj	_	_
 11	po	po	PART	_	_	12	mark	_	_
 12	vjel	vjeli	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
@@ -296,7 +296,7 @@
 17	shku	shkoj	VERB	_	VerbForm=Part	14	conj	_	_
 18	te	te	ADP	_	_	19	case	_	_
 19	ana	anë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	_
-20	e	e	DET	_	Case=Nom|Number=Sing|Person=3	21	det	_	_
+20	e	e	DET	_	Case=Nom|Number=Sing	21	det	_	_
 21	tjeter	tjetër	ADJ	_	Case=Nom|Definite=Ind|Number=Sing	19	amod	_	_
 22	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -421,8 +421,8 @@
 18	djal	djalë	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	obj	_	_
 19	tjeter	tjetër	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	18	amod	_	_
 20	qe	që	PRON	_	PronType=Rel	28	reparandum	_	_
-21	j	i	DET	_	Case=Dat|Number=Sing|Person=3	20	orphan	_	_
-22	a/	a	DET	_	Case=Acc|Number=Sing|Person=3	20	orphan	_	_
+21	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	20	orphan	_	_
+22	a/	a	PRON	_	Case=Acc|Number=Sing|Person=3	20	orphan	_	_
 23	perpara	përpara	ADV	_	_	28	advmod	_	_
 24	qe	që	PRON	_	PronType=Rel	28	obj	_	_
 25	ëhm	ëhm	INTJ	_	_	28	discourse	_	_
@@ -560,7 +560,7 @@
 11	relativisht	relativisht	ADV	_	_	13	advmod	_	_
 12	n	n	ADP	_	_	13	case	_	_
 13	mo:sh	mosh	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
-14	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	det	_	_
+14	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	15	det	_	_
 15	cili	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	_
 16	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	10	acl	_	_
 17	duke	duke	PART	_	_	18	mark	_	_
@@ -627,7 +627,7 @@
 6	me	me	ADP	_	_	8	case	_	_
 7	at	at	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
 8	bicikletën	biçikletë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
-9	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	det	_	_
+9	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	10	det	_	_
 10	tina:	tina	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	8	nmod	_	_
 11	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -723,7 +723,7 @@
 1	pasta:j	pastaj	ADV	_	_	3	advmod	_	_
 2	kët	kët	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	rru:gën	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
-4	e	e	DET	_	Case=Acc|Number=Sing|Person=3	5	det	_	_
+4	e	e	DET	_	Case=Acc|Number=Sing	5	det	_	_
 5	njejt	njëjtë	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
 6	ku:	ku	ADV	_	_	8	mark	_	_
 7	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	8	obj	_	_
@@ -1333,7 +1333,7 @@
 6	at	at	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
 7	ë:	ë	INTJ	_	_	8	discourse	_	_
 8	kshulen	kshulë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	_
-9	e	e	DET	_	Case=Gen|Number=Sing|Person=3	10	det	_	_
+9	e	e	DET	_	Case=Gen|Number=Sing	10	det	_	_
 10	vete	vete	PRON	_	Case=Gen|Number=Sing|Person=3	8	det	_	_
 11	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -1374,7 +1374,7 @@
 33	secili	secili	PRON	_	Definite=Ind	34	nsubj	_	_
 34	vazhdon	vazhdoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 35	udhen	udhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	34	obj	_	_
-36	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	37	det	_	_
+36	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	37	det	_	_
 37	vet	vet	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	35	nmod	_	_
 38	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -1685,7 +1685,7 @@
 3	pa:sh	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	një	një	DET	_	Definite=Ind	5	det	_	_
 5	njeri:	njeri	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	_
-6	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	det	_	_
+6	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
 7	cilli	cilli	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
 8	i:shte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	10	cop	_	_
 9	duke	duke	PART	_	_	10	mark	_	_
@@ -1708,7 +1708,7 @@
 1	kalon	kaloj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	një:	një	DET	_	_	3	det	_	_
 3	perso:n	persob	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	_
-4	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	det	_	_
+4	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	det	_	_
 5	cilli	cilli	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	7	nsubj	_	_
 6	nuk	nuk	PART	_	Polarity=Neg	7	advmod	_	_
 7	merr	marr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
@@ -1811,7 +1811,7 @@
 5	jep	jap	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	tri:	tre	NUM	_	Gender=Fem|NumType=Card	7	nummod	_	_
 7	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	5	obj	_	_
-8	të	të	DET	_	Gender=Fem|Number=Plur|Person=3	9	det	_	_
+8	të	të	DET	_	Gender=Fem|Number=Plur	9	det	_	_
 9	cillat	cillat	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	13	obj	_	_
 10	pastaj	pastaj	ADV	_	_	13	advmod	_	_
 11	ata	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
@@ -1852,7 +1852,7 @@
 25	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	24	obj	_	_
 26	nga:	nga	ADP	_	_	27	case	_	_
 27	ko:rpa	korpë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	24	obl	_	_
-28	e	e	DET	_	Case=Dat|Number=Sing|Person=3	29	det	_	_
+28	e	e	DET	_	Case=Dat|Number=Sing	29	det	_	_
 29	tij	ai	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	27	nmod	_	_
 30	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -1988,7 +1988,7 @@
 3	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	vazhdua	vazhdoj	VERB	_	VerbForm=Part	0	root	_	_
 5	rrugën	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	_
-6	e	e	DET	_	Case=Acc|Number=Sing|Person=3	7	det	_	_
+6	e	e	DET	_	Case=Acc|Number=Sing	7	det	_	_
 7	vet	vet	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -2074,7 +2074,7 @@
 3	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	vazhdua	vazhdoj	VERB	_	VerbForm=Part	0	root	_	_
 5	rrugën	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	_
-6	e	e	DET	_	Case=Acc|Number=Sing|Person=3	7	det	_	_
+6	e	e	DET	_	Case=Acc|Number=Sing	7	det	_	_
 7	vet	vet	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -2209,7 +2209,7 @@
 21	për	për	ADP	_	_	22	case	_	_
 22	momentin	moment	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	_
 23	nuk	nuk	PART	_	Polarity=Neg	25	advmod	_	_
-24	um	më	DET	_	Case=Dat|Number=Sing|Person=1	25	nsubj	_	_
+24	um	um	PRON	_	Case=Dat|Number=Sing|Person=1	25	nsubj	_	_
 25	kujtohet	kujtohna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 26	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -2527,7 +2527,7 @@
 5	djem	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	3	nsubj	_	_
 6	edhe:	edhe	CCONJ	_	_	11	cc	_	_
 7	ë	ëhm	INTJ	_	_	11	discourse	_	_
-8	i	i	DET	_	Case=Acc|Number=Plur|Person=3	11	reparandum	_	_
+8	i	i	DET	_	_	11	reparandum	_	_
 9	hend	_	AUX	_	Foreign=Yes	11	aux	_	Lang=gsw
 10	ihm	_	PRON	_	Foreign=Yes	11	obj	_	Lang=gsw
 11	gholfe	_	VERB	_	Foreign=Yes	3	conj	_	Lang=gsw
@@ -2862,7 +2862,7 @@
 2	njo:ni	njoni	PRON	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	han	ha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	ëh/	ëhm	INTJ	_	_	6	discourse	_	_
-5	ti	të	DET	_	Case=Acc|Number=Plur|Person=3	6	det	_	_
+5	ti	të	PART	_	_	6	mark	_	_
 6	muren	marr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 7	da:rdhat	dardhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	6	obj	_	_
 8	prap	prapë	ADV	_	_	9	advmod	_	_
@@ -2953,7 +2953,7 @@
 20	më	me	PART	_	_	21	mark	_	_
 21	ma:rr	marr	VERB	_	VerbForm=Part	19	xcomp	_	_
 22	dardë/	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	21	obj	_	_
-23	e	e	DET	_	Case=Acc|Number=Sing|Person=3	24	det	_	_
+23	e	e	DET	_	Case=Acc|Number=Sing	24	det	_	_
 24	kti:na	ktina	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	22	nmod	_	_
 25	tash	tash	ADV	_	_	21	advmod	_	_
 26	.	.	PUNCT	_	_	19	punct	_	_
@@ -2997,7 +2997,7 @@
 6	kon	jam	VERB	_	VerbForm=Part	0	root	_	_
 7	nja	nja	NUM	_	NumType=Card	6	nsubj	_	_
 8	ma	ma	PART	_	_	10	mark	_	_
-9	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	_
+9	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
 10	vjeter	vjetër	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
 11	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
 12	hyp	hypi	VERB	_	VerbForm=Part	6	conj	_	_
@@ -3047,7 +3047,7 @@
 5	ni	një	DET	_	_	6	det	_	_
 6	tjeter	tjetër	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 7	ma	ma	PART	_	_	9	mark	_	_
-8	i	i	DET	_	Case=Nom|Number=Sing|Person=3	9	det	_	_
+8	i	i	DET	_	Case=Nom|Number=Sing	9	det	_	_
 9	vjeter	vjetër	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
 10	me	me	ADP	_	_	11	case	_	_
 11	maga:r	magar	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	nmod	_	_
@@ -3077,7 +3077,7 @@
 3	ardh	vij	VERB	_	VerbForm=Part	0	root	_	_
 4	ni	një	DET	_	_	5	det	_	_
 5	djal	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	_
-6	i	i	DET	_	Case=Nom|Number=Sing|Person=3	7	det	_	_
+6	i	i	DET	_	Case=Nom|Number=Sing	7	det	_	_
 7	ri	re	ADJ	_	Case=Nom|Number=Sing	5	amod	_	_
 8	e	e	CCONJ	_	_	10	cc	_	_
 9	u	u	PART	_	_	10	mark	_	_
@@ -3319,7 +3319,7 @@
 5	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 6	shku	shkoj	VERB	_	VerbForm=Part	0	root	_	_
 7	rrugs	rrugë	NOUN	_	Case=Abl|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	_
-8	t	të	DET	_	Case=Dat|Number=Sing|Person=3	9	det	_	_
+8	t	të	DET	_	Case=Dat|Number=Sing	9	det	_	_
 9	vet	vet	PRON	_	PronType=Prs	7	nmod	_	_
 10	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -3438,7 +3438,7 @@
 4	vjel	vjeli	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	një	një	DET	_	Definite=Ind	6	det	_	_
 6	pjes	pjesë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obj	_	_
-7	e	e	DET	_	Case=Acc|Number=Plur|Person=3	8	det	_	_
+7	e	e	DET	_	Case=Acc|Number=Plur	8	det	_	_
 8	da:rdhave	dardhë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	_
 9	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	10	expl	_	_
 10	mbush	mbushi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
@@ -3539,14 +3539,14 @@
 2	ëh	ëhm	INTJ	_	_	3	discourse	_	_
 3	nëndërkohë	ndërkohë	ADV	_	_	8	advmod	_	_
 4	biqikle:ta	biçikletë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	_
-5	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	det	_	_
+5	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing	6	det	_	_
 6	ti:	ti	PRON	_	Gender=Masc|Number=Sing|PronType=Prs	4	nmod	_	_
 7	ë:h	ëhm	INTJ	_	_	8	discourse	_	_
 8	nde:sh	ndeshi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	nji	një	DET	_	_	11	det	_	_
 10	një	një	DET	_	Definite=Ind	11	det	_	_
 11	gu:r	gur	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	_
-12	të	të	DET	_	Case=Nom|Number=Sing|Person=3	13	det	_	_
+12	të	të	DET	_	Case=Nom|Number=Sing	13	det	_	_
 13	vo:gël	vogël	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	amod	_	_
 14	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -3561,7 +3561,7 @@
 7	nikohsisht	njëkohësisht	ADV	_	_	12	advmod	_	_
 8	ëdhë:	edhe	CCONJ	_	_	12	cc	_	_
 9	da:rdhatë	dardhë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	obj	_	_
-10	të	të	DET	_	Case=Acc|Number=Plur|Person=3	11	det	_	_
+10	të	të	DET	_	Case=Acc|Number=Plur	11	det	_	_
 11	gjitha	gjithë	ADJ	_	_	9	amod	_	_
 12	shprenda:hen	shpërndaj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 13	.	.	PUNCT	_	_	3	punct	_	_
@@ -3594,7 +3594,7 @@
 10	vazhdo:jn	vazhdoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 11	në	në	ADP	_	_	12	case	_	_
 12	rru:gën	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	obl	_	_
-13	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	det	_	_
+13	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	14	det	_	_
 14	ty:re	tyre	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	12	nmod	_	_
 15	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -3608,7 +3608,7 @@
 6	gje:jn	gjej	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	edhe:	edhe	CCONJ	_	_	8	cc	_	_
 8	kape:len	kapelë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	_
-9	e	e	DET	_	Case=Acc|Number=Sing|Person=3	11	det	_	_
+9	e	e	DET	_	Case=Acc|Number=Sing	11	det	_	_
 10	kti	kti	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 11	dja:lit	djalë	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
 12	.	.	PUNCT	_	_	6	punct	_	_
@@ -3621,7 +3621,7 @@
 4	sigurisht	sigurisht	ADV	_	_	2	discourse	_	_
 5	se	se	SCONJ	_	_	8	mark	_	_
 6	është	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-7	e	e	DET	_	Case=Acc|Number=Sing|Person=3	8	det	_	_
+7	e	e	DET	_	Case=Acc|Number=Sing	8	det	_	_
 8	ti	ti	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	2	xcomp	_	_
 9	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -3657,7 +3657,7 @@
 13	ka	ka	ADV	_	_	15	advmod	_	_
 14	një	një	DET	_	Definite=Ind	15	det	_	_
 15	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	10	obj	_	_
-16	të	të	DET	_	Case=Acc|Number=Sing|Person=3	17	det	_	_
+16	të	të	DET	_	Case=Acc|Number=Sing	17	det	_	_
 17	tillë	tillë	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	15	amod	_	_
 18	dhe	dhe	CCONJ	_	_	19	cc	_	_
 19	nisen	nisi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
@@ -3730,7 +3730,7 @@
 9	në	në	ADP	_	_	10	case	_	_
 10	dorë	dorë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	17	obl	_	_
 11	dhe:	dhe	CCONJ	_	_	17	cc	_	_
-12	u	u	DET	_	Case=Acc|Number=Plur|Person=3	17	reparandum	_	_
+12	u	u	PRON	_	Case=Acc|Number=Plur|Person=3	17	reparandum	_	_
 13	ky	ky	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
 14	nuk	nuk	PART	_	Polarity=Neg	17	advmod	_	_
 15	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	17	iobj	_	_
@@ -3741,7 +3741,7 @@
 20	shikon	shikoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	reparandum	_	_
 21	shikon	shikoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	_
 22	munge:sen	mungesë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	21	obj	_	_
-23	e	e	DET	_	Case=Gen|Number=Plur|Person=3	24	det	_	_
+23	e	e	DET	_	Case=Gen|Number=Plur	24	det	_	_
 24	shpo:rteve	shportë	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	_
 25	dhe	dhe	CCONJ	_	_	27	cc	_	_
 26	fëmi:jet	fmi	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	27	nsubj	_	_
@@ -3798,7 +3798,7 @@
 16	qe	që	SCONJ	_	_	20	mark	_	_
 17	ai	ai	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
 18	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	20	cop	_	_
-19	i	i	DET	_	Case=Nom|Number=Sing|Person=3	20	det	_	_
+19	i	i	DET	_	Case=Nom|Number=Sing	20	det	_	_
 20	nxan:	nxanë	ADJ	_	_	15	ccomp	_	_
 21	nalt	nalna	ADV	_	_	20	advmod	_	_
 22	.	.	PUNCT	_	_	5	punct	_	_
@@ -3881,7 +3881,7 @@
 7	kapela	kapelë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	20	nsubj	_	_
 8	a	a	CCONJ	_	_	13	cc	_	_
 9	si	si	ADV	_	_	13	advmod	_	_
-10	i	i	DET	_	Case=Dat|Number=Sing|Person=3	12	reparandum	_	_
+10	i	i	DET	_	Case=Dat|Number=Sing	12	reparandum	_	_
 11	t	të	PART	_	_	13	mark	_	_
 12	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	13	obj	_	_
 13	thojn	thom	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	discourse	_	_
@@ -3903,7 +3903,7 @@
 3	vajza	vajzë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
 4	vazhdoj	vazhdoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	rrugen	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	_
-6	e	e	DET	_	Case=Acc|Number=Sing|Person=3	7	det	_	_
+6	e	e	DET	_	Case=Acc|Number=Sing	7	det	_	_
 7	vet	vet	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -3911,7 +3911,7 @@
 # text = ky mbeti i urxum i mbledhi ato mollat pas ni ko: t shku:rt erdhen edhe tre quna tri .
 1	ky	ky	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
 2	mbeti	mbes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	det	_	_
+3	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	4	det	_	_
 4	urxum	rrzume	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 5	i	i	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	6	expl	_	_
 6	mbledhi	mbledhi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
@@ -3957,7 +3957,7 @@
 4	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	5	expl	_	_
 5	pan	shoh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 6	kapelen	kapelë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	_
-7	e	e	DET	_	Case=Acc|Number=Sing|Person=3	8	det	_	_
+7	e	e	DET	_	Case=Acc|Number=Sing	8	det	_	_
 8	ti	ti	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	nmod	_	_
 9	edhe	edhe	CCONJ	_	_	12	cc	_	_
 10	njeni	njeni	PRON	_	Definite=Ind|Gender=Masc|Number=Sing	12	nsubj	_	_
@@ -4007,7 +4007,7 @@
 2	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	vazhdoj	vazhdoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	rrugen	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
-5	e	e	DET	_	Case=Acc|Number=Sing|Person=3	6	det	_	_
+5	e	e	DET	_	Case=Acc|Number=Sing	6	det	_	_
 6	vet	vet	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	nmod	_	_
 7	kurse	kurse	CCONJ	_	_	10	advmod	_	_
 8	kta	kta	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	9	det	_	_
@@ -4028,7 +4028,7 @@
 8	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	obl	_	_
 9	ëh:	ëh	INTJ	_	_	10	obj	_	_
 10	fshatari	fshatar	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	conj	_	_
-11	i	i	DET	_	Case=Nom|Number=Sing|Person=3	12	det	_	_
+11	i	i	DET	_	Case=Nom|Number=Sing	12	det	_	_
 12	cili	cili	PRON	_	PronType=Rel	13	nsubj	_	_
 13	mledhte	mbledhi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	10	acl	_	_
 14	molla	mollë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	13	obj	_	_
@@ -4077,7 +4077,7 @@
 9	avullu	avulloj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 10	ajo	ajo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	det	_	_
 11	gajbe	gajbë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	15	nsubj	_	_
-12	e	e	DET	_	Case=Acc|Number=Sing|Person=3	15	reparandum	_	_
+12	e	e	DET	_	Case=Acc|Number=Sing	15	reparandum	_	_
 13	veren	vrej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	reparandum	_	_
 14	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	15	obj	_	_
 15	vren	vrej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
@@ -4092,7 +4092,7 @@
 24	ateher	atëherë	ADV	_	_	25	advmod	_	_
 25	jet	jes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 26	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
-27	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	det	_	_
+27	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	28	det	_	_
 28	quditur	çuditur	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	25	advcl	_	_
 29	ka	ka	ADV	_	_	30	advmod	_	_
 30	herdhen	herdh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	advcl	_	_
@@ -4282,8 +4282,8 @@
 # text = po kur j a pastaj kape:lën kur j a solli që kishte ra ëdhe kape:lja athëre u bo shpirt gjon j a dha tre da:rdha do më thon tre fmi:ve .
 1	po	po	CCONJ	_	_	6	cc	_	_
 2	kur	kur	ADV	_	_	6	advmod	_	_
-3	j	i	DET	_	Case=Dat|Number=Sing|Person=3	6	reparandum	_	_
-4	a	e	DET	_	Case=Acc|Number=Sing|Person=3	6	reparandum	_	_
+3	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	6	reparandum	_	_
+4	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	6	reparandum	_	_
 5	pastaj	pastaj	ADV	_	_	6	advmod	_	_
 6	kape:lën	kapelë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
 7	kur	kur	ADV	_	_	10	mark	_	_
@@ -4590,7 +4590,7 @@
 8	shpi	shpi	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	_
 9	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = Z-A-G3-ARTI07_15
+# sent_id = Z-A-G3-ARTI09_15
 # text = e ai: njeri ëhm i ka pa qysh i kan pas dardhat n dor .
 1	e	e	CCONJ	_	_	7	cc	_	_
 2	ai:	ai	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -4645,7 +4645,7 @@
 5	aj/	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 6	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	p	po	PART	_	_	8	mark	_	_
-8	i/	i	DET	_	Case=Acc|Number=Plur|Person=3	11	reparandum	_	_
+8	i/	i	DET	_	Case=Acc|Number=Plur	11	reparandum	_	_
 9	p	po	PART	_	_	11	mark	_	_
 10	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	11	expl	_	_
 11	mush	mbushi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
@@ -4709,7 +4709,7 @@
 # text = aj nuk e/ nuk e vren fare ë:hm nuk e vren se osht i i/ i /i koncentru: n ata: qysh m i mrri: krejt dardha:t m i marr .
 1	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 2	nuk	nuk	PART	_	Polarity=Neg	3	advmod	_	_
-3	e/	e	DET	_	Case=Acc|Number=Sing|Person=3	11	reparandum	_	_
+3	e/	e	DET	_	Case=Acc|Number=Sing	11	reparandum	_	_
 4	nuk	nuk	PART	_	Polarity=Neg	6	advmod	_	_
 5	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	6	expl	_	_
 6	vren	vrej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	reparandum	_	_
@@ -4723,18 +4723,18 @@
 14	i	i	DET	_	_	17	reparandum	_	_
 15	i/	i	DET	_	_	17	reparandum	_	_
 16	i	i	DET	_	_	17	reparandum	_	_
-17	/i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	det	_	_
+17	/i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	18	det	_	_
 18	koncentru:	koncentru	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	ccomp	_	_
 19	n	n	ADP	_	_	20	case	_	_
 20	ata:	ata	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	18	nmod	_	_
 21	qysh	qysh	PRON	_	PronType=Int	24	obl	_	_
 22	m	me	PART	_	_	24	mark	_	_
-23	i	i	DET	_	Case=Acc|Number=Plur|Person=3	24	det	_	_
+23	i	i	PRON	_	Case=Acc|Number=Plur	24	expl	_	_
 24	mrri:	mrrij	VERB	_	VerbForm=Inf	18	xcomp	_	_
 25	krejt	krejt	PRON	_	_	26	det	_	_
 26	dardha:t	dardhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	24	obj	_	_
 27	m	me	PART	_	_	29	mark	_	_
-28	i	i	DET	_	Case=Acc|Number=Plur|Person=3	29	det	_	_
+28	i	i	PRON	_	Case=Acc|Number=Plur	29	obj	_	_
 29	marr	marr	VERB	_	VerbForm=Inf	24	conj	_	_
 30	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -4785,7 +4785,7 @@
 24	dikon/	dikon	PRON	_	Case=Acc|Definite=Ind	21	obl	_	_
 25	me	me	ADP	_	_	28	case	_	_
 26	një	një	DET	_	Definite=Ind	28	det	_	_
-27	t	të	DET	_	Case=Acc|Number=Sing|Person=3	28	det	_	_
+27	t	të	DET	_	Case=Acc|Number=Sing	28	det	_	_
 28	rritur	rritur	ADJ	_	Case=Acc|Number=Sing	24	nmod	_	_
 29	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -4829,7 +4829,7 @@
 17	li:dhi	lidhi	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
 18	me	me	ADP	_	_	19	case	_	_
 19	ato	ato	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	17	obl	_	_
-20	t	të	DET	_	Case=Dat|Number=Sing|Person=3	21	det	_	_
+20	t	të	DET	_	Case=Dat|Number=Sing	21	det	_	_
 21	falende:ri:mit	falënderim	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	_
 22	që	që	PRON	_	PronType=Rel	25	nsubj	_	_
 23	ja	ja	PRON	_	Case=Dat|Number=Plur|Person=2	25	iobj	_	_
@@ -5213,7 +5213,7 @@
 6	e	e	CCONJ	_	_	10	cc	_	_
 7	dy	dy	NUM	_	NumType=Card	10	nsubj	_	_
 8	jan	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-9	t	të	DET	_	Case=Acc|Number=Plur|Person=3	10	det	_	_
+9	t	të	DET	_	Case=Acc|Number=Plur	10	det	_	_
 10	mushta	mbusht	ADJ	_	_	3	conj	_	_
 11	me	me	ADP	_	_	12	case	_	_
 12	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	10	nmod	_	_
@@ -5223,7 +5223,7 @@
 16	ish	jam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	17	reparandum	_	_
 17	osht	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
 18	lis	lis	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	ccomp	_	_
-19	i	i	DET	_	Case=Dat|Number=Plur|Person=3	20	det	_	_
+19	i	i	DET	_	Case=Dat|Number=Plur	20	det	_	_
 20	da:rdhave	dardhë	NOUN	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	18	nmod	_	_
 21	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -5273,7 +5273,7 @@
 3	hala:	hala	ADV	_	_	10	advmod	_	_
 4	at	at	PRON	_	Case=Acc|Number=Sing|PronType=Dem	5	det	_	_
 5	punen	punë	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	obj	_	_
-6	e	e	DET	_	Case=Acc|Number=Sing|Person=3	7	det	_	_
+6	e	e	DET	_	Case=Acc|Number=Sing	7	det	_	_
 7	veti	veti	PRON	_	Case=Gen|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	_
 8	tu	tu	PART	_	_	10	mark	_	_
 9	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	10	expl	_	_
@@ -5291,7 +5291,7 @@
 3	tashti	tash	ADV	_	_	2	advmod	_	_
 4	ni	një	DET	_	_	5	det	_	_
 5	djal	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
-6	i	i	DET	_	Case=Nom|Number=Sing|Person=3	7	det	_	_
+6	i	i	DET	_	Case=Nom|Number=Sing	7	det	_	_
 7	vogël	vogël	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
 8	me	me	ADP	_	_	9	case	_	_
 9	bicikul	bicikëll	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
@@ -5361,7 +5361,7 @@
 13	osht	jam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	reparandum	_	_
 14	ëhëm	ëhm	INTJ	_	_	17	discourse	_	_
 15	osht	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
-16	i	i	DET	_	Case=Nom|Number=Sing|Person=3	17	det	_	_
+16	i	i	DET	_	Case=Nom|Number=Sing	17	det	_	_
 17	angazhum	angazhume	ADJ	_	Case=Nom|Number=Sing	11	ccomp	_	_
 18	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -5540,7 +5540,7 @@
 3	hala:	hala	ADV	_	_	5	advmod	_	_
 4	n	n	ADP	_	_	5	case	_	_
 5	rrugen	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
-6	e	e	DET	_	Case=Dat|Number=Sing|Person=3	7	det	_	_
+6	e	e	DET	_	Case=Dat|Number=Sing	7	det	_	_
 7	vet	vet	PRON	_	_	5	nmod	_	_
 8	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -5710,7 +5710,7 @@
 23	shka:ll	shkallë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	20	obl	_	_
 24	ën	ën	ADP	_	_	25	case	_	_
 25	da:rdhën	dardhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	20	obl	_	_
-26	ë	e	DET	_	Case=Gen|Number=Sing|Person=3	27	det	_	_
+26	ë	e	DET	_	Case=Gen|Number=Sing	27	det	_	_
 27	vë:t	vët	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	25	obl	_	_
 28	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -6025,7 +6025,7 @@
 4	din	di	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	që:	që	PRON	_	PronType=Rel	8	obj	_	_
 6	jan	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-7	t	të	DET	_	Case=Dat|Number=Plur|Person=3	8	det	_	_
+7	t	të	DET	_	Case=Dat|Number=Plur	8	det	_	_
 8	ati:na	atina	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	4	ccomp	_	_
 9	ëdhe	edhe	CCONJ	_	_	10	cc	_	_
 10	kalo:jn	kaloj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
@@ -6185,7 +6185,7 @@
 2	ë:hm	ëhm	INTJ	_	_	14	discourse	_	_
 3	tash	tash	ADV	_	_	14	advmod	_	_
 4	soryboard	soryboard	NOUN	_	Foreign=Yes	14	nsubj:outer	_	Lang=en
-5	i	i	DET	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	6	det	_	_
+5	i	i	DET	_	Case=Dat|Gender=Masc|Number=Sing	6	det	_	_
 6	filmit	film	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 7	osht	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	reparandum	_	_
 8	si/	si	ADV	_	_	7	advmod	_	_
@@ -6238,7 +6238,7 @@
 12	kshy:r	kqyri	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 13	a	a	CCONJ	_	_	16	cc	_	_
 14	jon	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
-15	t	të	DET	_	Case=Acc|Number=Plur|Person=3	16	det	_	_
+15	t	të	DET	_	Case=Acc|Number=Plur	16	det	_	_
 16	mira	mirë	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	12	conj	_	_
 17	edhe	edhe	CCONJ	_	_	19	cc	_	_
 18	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	19	expl	_	_
@@ -6294,7 +6294,7 @@
 4	vjen	vij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ni	një	DET	_	_	6	det	_	_
 6	djal	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	_
-7	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	det	_	_
+7	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
 8	ri	re	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
 9	me	me	ADP	_	_	10	case	_	_
 10	biciklet	biçikletë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
@@ -6474,7 +6474,7 @@
 1	ta:ni	tani	ADV	_	_	3	advmod	_	_
 2	ata	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	shkojn	shkoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	e	e	DET	_	Case=Acc|Number=Sing|Person=3	5	det	_	_
+4	e	e	DET	_	Case=Acc|Number=Sing	5	det	_	_
 5	kapin	kapi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	obj	_	_
 6	e	e	CCONJ	_	_	7	cc	_	_
 7	qojn	qoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
@@ -7080,11 +7080,11 @@
 1	ene	ene	CCONJ	_	_	3	cc	_	_
 2	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	_
 3	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
-4	pi	pi	ADP	_	_	7	case	_	_
-5	pi	pi	ADP	_	_	7	case	_	_
+4	pi	pi	ADP	_	_	5	reparandum	_	_
+5	pi	pi	ADP	_	_	6	reparandum	_	_
 6	ke	ke	ADP	_	_	7	case	_	_
 7	druni	dru	NOUN	_	Case=Abl|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
-8	i:	i	DET	_	Case=Acc|Number=Plur|Person=3	9	det	_	_
+8	i:	i	DET	_	Case=Acc|Number=Plur	9	det	_	_
 9	merte	marr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	7	amod	_	_
 10	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -7150,7 +7150,7 @@
 1	erdhen	vij	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	tre:	tre	NUM	_	Gender=Masc|NumType=Card	3	nummod	_	_
 3	voca	vocë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	1	nsubj	_	_
-4	i	i	DET	_	Case=Dat|Number=Sing|Person=3	5	det	_	_
+4	i	i	DET	_	Case=Dat|Number=Sing	5	det	_	_
 5	ti	të	PART	_	_	3	nmod	_	_
 6	j	j	PRON	_	Case=Dat|Number=Sing	8	iobj	_	_
 7	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	8	expl	_	_
@@ -7215,7 +7215,7 @@
 6	pa:	shoh	VERB	_	VerbForm=Part	0	root	_	_
 7	ni:	një	DET	_	_	8	det	_	_
 8	njeri:	njeri	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	_
-9	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	_
+9	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
 10	cili	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	_
 11	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
 12	hy:p	hypi	VERB	_	VerbForm=Part	6	acl	_	_
@@ -7571,7 +7571,7 @@
 5	mandej	mandej	ADV	_	_	6	advmod	_	_
 6	gjen	gjej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 7	kapelen	kapelë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	_
-8	e	e	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	det	_	_
+8	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
 9	ti	ti	PRON	_	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	nmod	_	_
 10	dhe:	dhe	CCONJ	_	_	13	cc	_	_
 11	ëh	ëhm	INTJ	_	_	13	discourse	_	_
@@ -7639,7 +7639,7 @@
 19	ni	një	DET	_	_	20	det	_	_
 20	shport	shportë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	18	nsubj	_	_
 21	po	po	SCONJ	_	_	23	mark	_	_
-22	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	det	_	_
+22	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	23	det	_	_
 23	dyshimt	dyshimt	ADJ	_	_	20	amod	_	_
 24	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -7718,7 +7718,7 @@
 1	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	3	cop	_	_
 2	ni	një	DET	_	_	3	det	_	_
 3	dite	ditë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-4	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	det	_	_
+4	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
 5	buku:r	bukur	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	amod	_	_
 6	tamam	tamam	ADV	_	_	7	advmod	_	_
 7	ve:re	verë	NOUN	_	Case=Abl|Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	_
@@ -7729,7 +7729,7 @@
 12	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	aux	_	_
 13	pjekë	pjeki	VERB	_	VerbForm=Part	9	ccomp	_	_
 14	fry:tet	frytë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	13	obj	_	_
-15	e	e	DET	_	Case=Nom|Number=Sing|Person=3	16	det	_	_
+15	e	e	DET	_	Case=Nom|Number=Sing	16	det	_	_
 16	ve:ta	vetë	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs|Reflex=Yes	14	nmod	_	_
 17	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -8144,19 +8144,19 @@
 # text = në fi:lmin e sapo tregu:ar paraqi:tet një: pemta:r i cili vje:l da:rdha në ko:pshtin e ti:j .
 1	në	në	ADP	_	_	2	case	_	_
 2	fi:lmin	film	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
-3	e	e	DET	_	Case=Acc|Number=Sing|Person=3	5	det	_	_
+3	e	e	DET	_	Case=Acc|Number=Sing	5	det	_	_
 4	sapo	sapo	ADV	_	_	5	advmod	_	_
-5	tregu:ar	tregoj	VERB	_	VerbForm=Part	2	amod	_	_
+5	tregu:ar	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	amod	_	_
 6	paraqi:tet	paraqitna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	një:	një	DET	_	_	8	det	_	_
 8	pemta:r	pemtar	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	_
-9	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	_
+9	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	10	det	_	_
 10	cili	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	11	nsubj	_	_
 11	vje:l	vjeli	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
 12	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	11	obj	_	_
 13	në	në	ADP	_	_	14	case	_	_
 14	ko:pshtin	kopsht	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	_
-15	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	det	_	_
+15	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing	16	det	_	_
 16	ti:j	ai	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	nmod	_	_
 17	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -8170,7 +8170,7 @@
 6	djalosh	djalosh	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	_
 7	me	me	ADP	_	_	8	case	_	_
 8	biqikle:t	biçikletë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	nmod	_	_
-9	i	i	DET	_	Case=Nom|Number=Sing|Person=3	10	det	_	_
+9	i	i	DET	_	Case=Nom|Number=Sing	10	det	_	_
 10	cili	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	11	nsubj	_	_
 11	mba:nte	mbaj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	6	acl	_	_
 12	kape:l	kapelë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
@@ -8185,11 +8185,11 @@
 
 # sent_id = P-A-G1-ZEBO54_3
 # text = i jo:shur nga: shpo:rtat e mbu:shura me da:rdha rrëmben njërën nga shpo:rtat me mbu:shura tinëzisht dhe me vrap vazhdon rru:gën e fsha:tit .
-1	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	det	_	_
+1	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
 2	jo:shur	joshur	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 3	nga:	nga	ADP	_	_	4	case	_	_
 4	shpo:rtat	shportë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	nmod	_	_
-5	e	e	DET	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	6	det	_	_
+5	e	e	DET	_	Case=Acc|Gender=Fem|Number=Plur	6	det	_	_
 6	mbu:shura	mbushur	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	4	amod	_	_
 7	me	me	ADP	_	_	8	case	_	_
 8	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	6	nmod	_	_
@@ -8205,7 +8205,7 @@
 18	vrap	vrapë	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	_
 19	vazhdon	vazhdoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
 20	rru:gën	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	obj	_	_
-21	e	e	DET	_	Case=Acc|Number=Sing|Person=3	22	det	_	_
+21	e	e	DET	_	Case=Acc|Number=Sing	22	det	_	_
 22	fsha:tit	fshat	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	20	nmod	_	_
 23	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -8219,7 +8219,7 @@
 6	vjen	vij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	një	një	DET	_	Definite=Ind	8	det	_	_
 8	zonju:sh	zonjushë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	nsubj	_	_
-9	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	det	_	_
+9	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing	10	det	_	_
 10	re:	re	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
 11	me	me	ADP	_	_	12	case	_	_
 12	flo:k	flok	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	_
@@ -8243,7 +8243,7 @@
 13	gu:ri	gur	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	obj	_	_
 14	para	para	ADP	_	_	15	case	_	_
 15	rro:tës	rrotë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	_
-16	së	së	DET	_	Case=Dat|Number=Sing|Person=3	17	det	_	_
+16	së	së	DET	_	Case=Dat|Number=Sing	17	det	_	_
 17	bicikle:tës	biçikletë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	_
 18	me	me	ADP	_	_	19	case	_	_
 19	rast	rast	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	_
@@ -8273,7 +8273,7 @@
 18	të	të	PART	_	_	19	mark	_	_
 19	shiqu:ar	shiqoj	VERB	_	VerbForm=Part	14	xcomp	_	_
 20	këmbën	këmbë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	obj	_	_
-21	e	e	DET	_	Case=Acc|Number=Sing|Person=3	22	det	_	_
+21	e	e	DET	_	Case=Acc|Number=Sing	22	det	_	_
 22	djatht	djathtë	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	20	amod	_	_
 23	që	që	PRON	_	PronType=Rel	26	obj	_	_
 24	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	26	expl	_	_
@@ -8291,7 +8291,7 @@
 3	tre	tre	NUM	_	Gender=Masc|NumType=Card	4	nummod	_	_
 4	djalosh	djalosh	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	tje:r	tjetër	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
-6	të	të	DET	_	Case=Nom|Number=Plur|Person=3	7	det	_	_
+6	të	të	DET	_	Case=Nom|Number=Plur	7	det	_	_
 7	cilët	cilët	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	_	_
 8	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	9	expl	_	_
 9	ndihmo:jn	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
@@ -8446,7 +8446,7 @@
 4	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	pa:	shoh	VERB	_	VerbForm=Part	0	root	_	_
 6	qe	që	SCONJ	_	_	8	mark	_	_
-7	i	i	DET	_	Case=Acc|Number=Plur|Person=3	8	det	_	_
+7	i	i	PRON	_	Case=Acc|Number=Plur	8	expl	_	_
 8	kan	jam	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
 9	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	8	obj	_	_
 10	.	.	PUNCT	_	_	5	punct	_	_
@@ -8505,7 +8505,7 @@
 8	moshën	moshë	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 9	pak	pak	ADJ	_	_	12	advmod	_	_
 10	ma	ma	PART	_	_	12	mark	_	_
-11	t	të	DET	_	Case=Acc|Number=Sing|Person=3	12	det	_	_
+11	t	të	DET	_	Case=Acc|Number=Sing	12	det	_	_
 12	moshu:ar	moshuar	ADJ	_	_	8	amod	_	_
 13	që	që	PRON	_	PronType=Rel	14	nsubj	_	_
 14	mblidhte:	mbledhi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	6	acl	_	_
@@ -8537,7 +8537,7 @@
 40	ve:te	vete	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	34	obl	_	_
 41	për	për	ADP	_	_	45	reparandum	_	_
 42	t	të	PART	_	_	46	reparandum	_	_
-43	i	i	DET	_	Case=Acc|Number=Plur|Person=3	47	reparandum	_	_
+43	i	i	DET	_	Case=Acc|Number=Plur	47	reparandum	_	_
 44	mmm/	ëhm	INTJ	_	_	48	discourse	_	_
 45	për	për	ADP	_	_	48	mark	_	_
 46	t	të	PART	_	_	48	mark	_	_
@@ -8554,7 +8554,7 @@
 3	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	5	expl	_	_
 4	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	pasu:r	kam	VERB	_	VerbForm=Part	0	root	_	_
-6	të	të	DET	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	7	det	_	_
+6	të	të	DET	_	Case=Acc|Gender=Fem|Number=Plur	7	det	_	_
 7	mbu:shura	mbushur	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
 8	dhe	dhe	CCONJ	_	_	12	cc	_	_
 9	një	një	NUM	_	NumType=Card	12	obj	_	_
@@ -8603,13 +8603,13 @@
 27	kaluar	kaloj	VERB	_	VerbForm=Part	10	conj	_	_
 28	një	një	DET	_	Definite=Ind	29	det	_	_
 29	dja:l	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	27	nsubj	_	_
-30	i	i	DET	_	Case=Dat|Number=Sing|Person=3	33	det	_	_
+30	i	i	DET	_	Case=Dat|Number=Sing	33	det	_	_
 31	ëhm	ëhm	INTJ	_	_	33	discourse	_	_
-32	i	i	DET	_	Case=Dat|Number=Sing|Person=3	33	det	_	_
+32	i	i	DET	_	Case=Dat|Number=Sing	33	det	_	_
 33	moshës	moshë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	29	nmod	_	_
 34	shum	shumë	ADJ	_	_	37	advmod	_	_
 35	ma	ma	PART	_	_	37	mark	_	_
-36	t	të	DET	_	Case=Dat|Number=Sing|Person=3	37	det	_	_
+36	t	të	DET	_	Case=Dat|Number=Sing	37	det	_	_
 37	vo:gël	vogël	ADJ	_	Degree=Cmp	33	amod	_	_
 38	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -8625,7 +8625,7 @@
 8	ato:	ato	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	9	det	_	_
 9	shporta:t	shportë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	_
 10	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	12	cop	_	_
-11	e	e	DET	_	Case=Nom|Number=Sing|Person=3	12	det	_	_
+11	e	e	DET	_	Case=Nom|Number=Sing	12	det	_	_
 12	mbu:shur	mbushur	ADJ	_	Case=Nom|Number=Sing	4	ccomp	_	_
 13	dhe	dhe	CCONJ	_	_	23	cc	_	_
 14	ky	ky	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
@@ -8678,7 +8678,7 @@
 23	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	24	expl	_	_
 24	shikuar	shikoj	VERB	_	VerbForm=Part	17	conj	_	_
 25	rrugën	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	24	obj	_	_
-26	e	e	DET	_	Case=Acc|Number=Sing|Person=3	27	det	_	_
+26	e	e	DET	_	Case=Acc|Number=Sing	27	det	_	_
 27	ve:t	vet	PRON	_	Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes	25	nmod	_	_
 28	pahi:ri	pahiri	ADV	_	_	24	advmod	_	_
 29	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	32	expl	_	_
@@ -8733,7 +8733,7 @@
 7	poashtu:	ashtu	CCONJ	_	_	9	cc	_	_
 8	rreth	rreth	ADV	_	_	9	case	_	_
 9	moshës	moshë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
-10	së	së	DET	_	Case=Dat|Number=Sing|Person=3	11	det	_	_
+10	së	së	DET	_	Case=Dat|Number=Sing	11	det	_	_
 11	ti:j	ai	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 12	dhe:	dhe	CCONJ	_	_	15	cc	_	_
 13	pasi	pasi	ADV	_	_	15	advmod	_	_
@@ -8741,14 +8741,14 @@
 15	pa:n	shoh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
 16	që	që	SCONJ	_	_	19	mark	_	_
 17	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	19	cop	_	_
-18	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	det	_	_
+18	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	19	det	_	_
 19	lëndu:ar	lëndoj	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	acl	_	_
 20	e	e	PRON	_	Case=Dat|Number=Sing|Person=3	21	obj	_	_
 21	ndihmu:an	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	ccomp	_	_
 22	t	të	PART	_	_	24	mark	_	_
 23	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	24	expl	_	_
 24	mbledhte	mbledhi	VERB	_	Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Act	21	ccomp	_	_
-25	të	të	DET	_	Case=Acc|Number=Plur|Person=3	26	det	_	_
+25	të	të	DET	_	Case=Acc|Number=Plur	26	det	_	_
 26	gjitha	gjithë	PRON	_	Definite=Ind|Gender=Fem	28	amod	_	_
 27	ato:	ato	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	28	det	_	_
 28	da:rdha:	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	24	obj	_	_
@@ -8838,10 +8838,10 @@
 34	shpërnda:nin	shpërndaj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl	_	_
 35	edhe	edhe	CCONJ	_	_	36	cc	_	_
 36	sho:kve	shokë	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	34	obj	_	_
-37	t	të	DET	_	Case=Dat|Number=Sing|Person=3	38	det	_	_
+37	t	të	DET	_	Case=Dat|Number=Sing	38	det	_	_
 38	ve:t	vet	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	36	nmod	_	_
 39	pa	pa	ADP	_	_	41	case	_	_
-40	e	e	DET	_	Case=Acc|Number=Sing|Person=3	41	det	_	_
+40	e	e	PRON	_	Case=Acc|Number=Sing	41	expl	_	_
 41	vrejtu:r	vrej	VERB	_	VerbForm=Part	34	xcomp	_	_
 42	ai:	ai	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	obj	_	_
 43	.	.	PUNCT	_	_	7	punct	_	_
@@ -8857,7 +8857,7 @@
 7	ëhm	ëhm	INTJ	_	_	9	discourse	_	_
 8	kti:j	ktij	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 9	fi:lmi	film	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	_
-10	t	të	DET	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	11	det	_	_
+10	t	të	DET	_	Case=Dat|Gender=Masc|Number=Sing	11	det	_	_
 11	shku:rt	shkurtë	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	9	amod	_	_
 12	kta	kta	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
 13	tre	tre	NUM	_	Gender=Masc|NumType=Card	14	nummod	_	_
@@ -8884,7 +8884,7 @@
 4	i:	i	DET	_	_	5	det	_	_
 5	shu:m	shumë	ADJ	_	_	8	advmod	_	_
 6	i:	i	DET	_	_	8	det	_	_
-7	i:	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	det	_	_
+7	i:	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
 8	hutu:ar	hutuar	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	_
 9	nga:	nga	ADP	_	_	12	mark	_	_
 10	ku	ku	ADV	_	_	9	fixed	_	_
@@ -8892,8 +8892,8 @@
 12	mbe:tur	mes	VERB	_	VerbForm=Part	2	advcl	_	_
 13	ajo:	ajo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
 14	shpo:rta	shportë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	obj	_	_
-15	e:	e	DET	_	Case=Nom|Number=Sing|Person=3	17	det	_	_
-16	e	e	DET	_	Case=Nom|Number=Sing|Person=3	17	det	_	_
+15	e:	e	DET	_	Case=Nom|Number=Sing	17	det	_	_
+16	e	e	DET	_	Case=Nom|Number=Sing	17	det	_	_
 17	fundi:t	fund	ADJ	_	_	14	amod	_	_
 18	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -8949,7 +8949,7 @@
 10	korpat	korpë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	9	obj	_	_
 11	posh	poshtë	ADV	_	_	9	advmod	_	_
 12	me	me	ADP	_	_	14	mark	_	_
-13	e	e	DET	_	Case=Acc|Number=Sing|Person=3	14	det	_	_
+13	e	e	DET	_	Case=Acc|Number=Sing	14	det	_	_
 14	mushte	muj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	10	amod	_	_
 15	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -9042,7 +9042,7 @@
 18	bicikell	bicikëll	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	_
 19	n	n	ADP	_	_	20	case	_	_
 20	anen	anë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	14	conj	_	_
-21	e	e	DET	_	Case=Acc|Number=Sing|Person=3	22	det	_	_
+21	e	e	DET	_	Case=Acc|Number=Sing	22	det	_	_
 22	ku:ndert	kundert	ADV	_	_	20	amod	_	_
 23	edhe	edhe	CCONJ	_	_	25	cc	_	_
 24	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	25	expl	_	_
@@ -9177,9 +9177,9 @@
 3	kur	kur	ADV	_	_	4	advmod	_	_
 4	zdripi	zdrypi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 5	posh	poshtë	ADV	_	_	4	advmod	_	_
-6	i	i	DET	_	Case=Acc|Number=Plur|Person=3	7	det	_	_
+6	i	i	PRON	_	Case=Acc|Number=Plur	7	expl	_	_
 7	njefa	njoh	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
-8	ni	ni	NUM	_	NumType=Card	7	obj	_	_
+8	ni	ni	NUM	_	NumType=Card	8	reparandum	_	_
 9	di	di	NUM	_	NumType=Card	7	obj	_	_
 10	edhe	edhe	CCONJ	_	_	13	cc	_	_
 11	nji	nji	NUM	_	NumType=Card	14	obj	_	_
@@ -9589,11 +9589,11 @@
 10	fshata:r	fshatar	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	8	nsubj	_	_
 11	dhe	dhe	CCONJ	_	_	12	cc	_	_
 12	reagimet	reagim	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	10	conj	_	_
-13	e	e	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	14	det	_	_
+13	e	e	DET	_	Case=Nom|Gender=Masc|Number=Plur	14	det	_	_
 14	ty:re	tyre	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	12	nmod	_	_
 15	në	në	ADP	_	_	16	case	_	_
 16	mome:ntet	moment	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	14	nmod	_	_
-17	e	e	DET	_	Case=Acc|Number=Plur|Person=3	18	det	_	_
+17	e	e	DET	_	Case=Acc|Number=Plur	18	det	_	_
 18	caktu:ara	caktuar	ADJ	_	_	16	amod	_	_
 19	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -9606,7 +9606,7 @@
 5	shfaqet	shfaqna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	ni	një	DET	_	_	7	det	_	_
 7	fshata:r	fshatar	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	_
-8	i	i	DET	_	Case=Nom|Number=Sing|Person=3	9	det	_	_
+8	i	i	DET	_	Case=Nom|Number=Sing	9	det	_	_
 9	cili:	cili	PRON	_	PronType=Rel	16	nsubj	_	_
 10	ësht	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
 11	duke	duke	PART	_	_	14	reparandum	_	_
@@ -9630,7 +9630,7 @@
 29	nji	një	DET	_	_	30	det	_	_
 30	përkushtim	përkushtim	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	26	obl	_	_
 31	jashtzakonisht	jashtëzakonisht	ADV	_	_	33	advmod	_	_
-32	të:	të	DET	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	33	det	_	_
+32	të:	të	DET	_	Case=Acc|Gender=Masc|Number=Sing	33	det	_	_
 33	madh	madhe	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	30	amod	_	_
 34	ë:hm	ëhm	INTJ	_	_	38	discourse	_	_
 35	ëhm	ëhm	INTJ	_	_	38	discourse	_	_
@@ -9651,14 +9651,14 @@
 2	mi:rpo	mirëpo	CCONJ	_	_	20	cc	_	_
 3	gjat	gjatë	ADP	_	_	4	case	_	_
 4	vjeljes	vjelje	NOUN	_	Case=Abl|Definite=Def|Gender=Fem|Number=Sing	20	obl	_	_
-5	së	së	DET	_	Case=Abl|Number=Sing|Person=3	6	det	_	_
+5	së	së	DET	_	Case=Abl|Number=Sing	6	det	_	_
 6	da:rdhave	dardhë	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	nmod	_	_
 7	aty	aty	ADV	_	_	9	advmod	_	_
 8	pra:n	pranë	ADV	_	_	9	case	_	_
 9	ko:shave	kosh	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	_
-10	të	të	DET	_	Case=Dat|Number=Sing|Person=3	11	det	_	_
+10	të	të	DET	_	Case=Dat|Number=Sing	11	det	_	_
 11	tij	ai	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
-12	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	det	_	_
+12	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	13	det	_	_
 13	cili	cili	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	_
 14	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	16	obj	_	_
 15	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	16	aux	_	_
@@ -9686,7 +9686,7 @@
 8	merr	marr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 9	nji	një	DET	_	_	10	det	_	_
 10	ko:sh/	kosh	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	reparandum	_	_
-11	nji	një	DET	_	Case=Acc|Number=Sing|Person=3	12	det	_	_
+11	nji	një	DET	_	Case=Acc|Number=Sing	12	det	_	_
 12	kosh	kosh	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	_
 13	me	me	ADP	_	_	14	case	_	_
 14	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	12	nmod	_	_
@@ -9705,7 +9705,7 @@
 9	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 10	me	me	ADP	_	_	11	case	_	_
 11	bicikle:tën	biçikletë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
-12	e	e	DET	_	Case=Acc|Number=Sing|Person=3	13	det	_	_
+12	e	e	DET	_	Case=Acc|Number=Sing	13	det	_	_
 13	ti:j	ai	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	nmod	_	_
 14	ëhm	ëhm	INTJ	_	_	15	discourse	_	_
 15	sheh	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -9761,11 +9761,11 @@
 7	grup	grup	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	_
 8	prej	prej	ADP	_	_	9	case	_	_
 9	djemve	djalë	NOUN	_	Case=Abl|Definite=Def|Gender=Masc|Number=Plur	7	obl	_	_
-10	të	të	DET	_	Case=Dat|Number=Plur|Person=3	11	det	_	_
+10	të	të	DET	_	Case=Dat|Number=Plur	11	det	_	_
 11	cilët	cilët	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	16	nsubj	_	_
 12	në:	në	ADP	_	_	13	case	_	_
 13	shikim	shikim	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	_
-14	t	të	DET	_	Case=Acc|Number=Sing|Person=3	15	det	_	_
+14	t	të	DET	_	Case=Acc|Number=Sing	15	det	_	_
 15	pa:r	par	NUM	_	NumType=Ord	13	amod	_	_
 16	du:keshin	dokna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	9	acl	_	_
 17	sikur	sikur	ADV	_	_	20	mark	_	_
@@ -9779,7 +9779,7 @@
 25	ose:	ose	CCONJ	_	_	29	cc	_	_
 26	t	të	PART	_	_	29	mark	_	_
 27	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	29	iobj	_	_
-28	a	e	DET	_	Case=Acc|Number=Plur|Person=3	29	det	_	_
+28	a	a	PRON	_	Case=Acc|Number=Plur|Person=3	29	expl	_	_
 29	merrnin	marr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	20	conj	_	_
 30	da:rdhat	dardhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	29	obj	_	_
 31	.	.	PUNCT	_	_	5	punct	_	_
@@ -9832,7 +9832,7 @@
 10	edhe	edhe	CCONJ	_	_	15	cc	_	_
 11	ëhm	ëhm	INTJ	_	_	12	discourse	_	_
 12	kapu:qi	kapuq	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	nsubj	_	_
-13	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	det	_	_
+13	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	14	det	_	_
 14	tij	ai	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	nmod	_	_
 15	ra:	bij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 16	n	n	ADP	_	_	17	case	_	_
@@ -9952,7 +9952,7 @@
 20	me	me	ADP	_	_	22	case	_	_
 21	kët	kët	PRON	_	Case=Acc|Number=Sing|PronType=Dem	22	det	_	_
 22	zhdu:kjen	zhdukje	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	_
-23	e	e	DET	_	Case=Dat|Number=Sing|Person=3	24	det	_	_
+23	e	e	DET	_	Case=Dat|Number=Sing	24	det	_	_
 24	da:rdhave	dardhë	NOUN	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	22	nmod	_	_
 25	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -10049,7 +10049,7 @@
 16	korp	korpë	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	obj	_	_
 17	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = Z-A-G3-BLJI03_3
+# sent_id = Z-A-G3-BLJI04_3
 # text = tani u kan ni qik me bicikell e ka vjel edhe ni korp .
 1	tani	tani	ADV	_	_	3	advmod	_	_
 2	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
@@ -10132,7 +10132,7 @@
 12	shpi	shpi	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	obl	_	_
 13	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = Z-A-G3-BLJI03_9
+# sent_id = Z-A-G3-BLJI04_9
 # text = tani: aj neri u kon ato shkallt u kon posht .
 1	tani:	tani	ADV	_	_	9	advmod	_	_
 2	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -10187,7 +10187,7 @@
 1	hipke	hipi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	na:lt	nalna	ADV	_	_	1	advmod	_	_
 3	me	me	ADP	_	_	4	case	_	_
-4	do:	do	DET	_	_	7	det	_	_
+4	do:	do	PRON	_	_	7	det	_	_
 5	si	si	ADV	_	_	6	case	_	_
 6	far	farë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	_
 7	shka:ll	shkallë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	_
@@ -10309,7 +10309,7 @@
 7	ni	një	DET	_	_	8	det	_	_
 8	gu:ri	gur	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	_
 9	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	12	iobj	_	_
-10	u	u	DET	_	Case=Acc|Number=Sing|Person=3	12	det	_	_
+10	u	u	PRON	_	Case=Acc|Number=Sing|Person=3	12	expl	_	_
 11	u:	u	PART	_	_	12	mark	_	_
 12	rrxu	rrzohna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	_
 13	ajo	ajo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
@@ -10400,7 +10400,7 @@
 14	ato	ato	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	16	det	_	_
 15	ë:hm	ëhm	INTJ	_	_	16	discourse	_	_
 16	korpët	korpë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	12	nmod	_	_
-17	e	e	DET	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	18	det	_	_
+17	e	e	DET	_	Case=Acc|Gender=Fem|Number=Plur	18	det	_	_
 18	veta	vetë	PRON	_	Gender=Fem|Number=Plur|PronType=Prs|Reflex=Yes	16	nmod	_	_
 19	tu	tu	PART	_	_	21	mark	_	_
 20	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	21	expl	_	_
@@ -10445,10 +10445,10 @@
 2	film	film	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	përshkru:an	përshkruj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	histori:n	histori	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
-5	e	e	DET	_	Case=Dat|Number=Sing|Person=3	7	det	_	_
+5	e	e	DET	_	Case=Dat|Number=Sing	7	det	_	_
 6	një	një	DET	_	Definite=Ind	7	det	_	_
 7	fshata:ri	fshatar	NOUN	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	_
-8	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	det	_	_
+8	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	9	det	_	_
 9	cili	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	11	nsubj	_	_
 10	po	po	PART	_	_	11	mark	_	_
 11	mble:dh	mbledhi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	_	_
@@ -10473,7 +10473,7 @@
 11	kalon	kaloj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 12	një	një	DET	_	Definite=Ind	13	det	_	_
 13	bari:	bar	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	_
-14	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	det	_	_
+14	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	15	det	_	_
 15	cili	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	16	nsubj	_	_
 16	vazhdon	vazhdoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	_
 17	rrugën	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	obj	_	_
@@ -10518,7 +10518,7 @@
 12	mo:rri	marr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 13	një	një	DET	_	Definite=Ind	14	det	_	_
 14	shpo:rt	shportë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	obj	_	_
-15	të	të	DET	_	Case=Acc|Number=Sing|Person=3	16	det	_	_
+15	të	të	DET	_	Case=Acc|Number=Sing	16	det	_	_
 16	mbu:shur	mbushur	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	14	amod	_	_
 17	me	me	ADP	_	_	18	case	_	_
 18	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	14	nmod	_	_
@@ -10531,7 +10531,7 @@
 3	tu:tje	tutje	ADV	_	_	2	advmod	_	_
 4	me	me	ADP	_	_	5	case	_	_
 5	bicikle:tën	biçikletë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
-6	e	e	DET	_	Case=Gen|Number=Sing|Person=3	7	det	_	_
+6	e	e	DET	_	Case=Gen|Number=Sing	7	det	_	_
 7	tij	ai	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	_
 8	gjat	gjatë	ADP	_	_	9	case	_	_
 9	rru:gës	rrugë	NOUN	_	Case=Abl|Definite=Def|Gender=Fem|Number=Sing	10	obl	_	_
@@ -10559,7 +10559,7 @@
 15	ra:	bij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
 16	edhe	edhe	CCONJ	_	_	17	cc	_	_
 17	ko:shi	kosh	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	conj	_	_
-18	i	i	DET	_	Case=Nom|Number=Sing|Person=3	19	det	_	_
+18	i	i	DET	_	Case=Nom|Number=Sing	19	det	_	_
 19	mbu:shur	mbushur	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	17	amod	_	_
 20	me	me	ADP	_	_	21	case	_	_
 21	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	17	nmod	_	_
@@ -10572,7 +10572,7 @@
 3	tre	tre	NUM	_	Gender=Masc|NumType=Card	4	nummod	_	_
 4	qu:na	çun	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	tje:r	tjetër	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
-6	të	të	DET	_	Case=Nom|Number=Plur|Person=3	7	det	_	_
+6	të	të	DET	_	Case=Nom|Number=Plur	7	det	_	_
 7	ci:lët	cilët	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Rel	9	nsubj	_	_
 8	e	e	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	9	expl	_	_
 9	ndihmu:an	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
@@ -10715,7 +10715,7 @@
 # text = apo nuk e vetem pak nuk se kum harru sezona ku:r ku vilen pemt kum harru se moti ku jete .
 1	apo	apo	CCONJ	_	_	2	cc	_	_
 2	nuk	nuk	PART	_	Polarity=Neg	6	reparandum	_	_
-3	e	e	DET	_	Case=Acc|Number=Sing|Person=3	6	reparandum	_	_
+3	e	e	DET	_	Case=Acc|Number=Sing	6	reparandum	_	_
 4	vetem	vetëm	ADV	_	_	5	advmod	_	_
 5	pak	pak	ADJ	_	_	6	advmod	_	_
 6	nuk	nuk	PART	_	Polarity=Neg	9	reparandum	_	_
@@ -10977,11 +10977,11 @@
 3	ky	ky	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	djali:	djalë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
 5	osht	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-6	e	e	DET	_	Case=Acc|Number=Sing|Person=3	7	det	_	_
+6	e	e	DET	_	Case=Acc|Number=Sing	7	det	_	_
 7	quditshme	çuditshme	ADJ	_	_	0	root	_	_
 8	qe:	që	SCONJ	_	_	10	mark	_	_
 9	nuk	nuk	PART	_	Polarity=Neg	10	advmod	_	_
-10	e:	e	DET	_	Case=Acc|Number=Sing|Person=3	18	reparandum	_	_
+10	e:	e	DET	_	Case=Acc|Number=Sing	18	reparandum	_	_
 11	edhe	edhe	CCONJ	_	_	14	mark	_	_
 12	pse	pse	CCONJ	_	_	11	fixed	_	_
 13	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	14	obj	_	_
@@ -11022,7 +11022,7 @@
 24	ë	ë	INTJ	_	_	28	discourse	_	_
 25	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	28	iobj	_	_
 26	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	28	obj	_	_
-27	i	i	DET	_	Case=Dat|Number=Sing|Person=3	28	det	_	_
+27	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	28	iobj	_	_
 28	than	thom	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	conj	_	_
 29	ëh:	ëhm	INTJ	_	_	31	discourse	_	_
 30	i:	i	PRON	_	Case=Dat|Number=Sing|Person=3	31	obj	_	_
@@ -11323,7 +11323,7 @@
 35	tu:	tu	PART	_	_	37	mark	_	_
 36	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	37	obj	_	_
 37	mle:dh	mbledhi	VERB	_	VerbForm=Part	34	xcomp	_	_
-38	e	e	DET	_	Case=Acc|Number=Sing|Person=3	39	det	_	_
+38	e	e	PRON	_	Case=Acc|Number=Sing	39	obj	_	_
 39	sheh	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	acl	_	_
 40	që	që	SCONJ	_	_	43	mark	_	_
 41	p	po	PART	_	_	43	mark	_	_
@@ -11351,7 +11351,7 @@
 # sent_id = Z-A-G2-QEIU94_1
 # text = oke e pash ni burr ëhm ka hyp n dardh tu mledh dardha .
 1	oke	okej	PART	_	_	3	mark	_	_
-2	e	e	DET	_	Case=Acc|Number=Sing|Person=3	3	amod	_	_
+2	e	e	PRON	_	Case=Acc|Number=Sing	3	expl	_	_
 3	pash	shoh	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	ni	një	DET	_	_	5	det	_	_
 5	burr	burrë	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	_
@@ -11677,8 +11677,8 @@
 4	djem	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	5	nsubj	_	_
 5	kalun	kaloj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	edhe	edhe	CCONJ	_	_	11	cc	_	_
-7	j	i	DET	_	Case=Dat|Number=Sing|Person=3	9	reparandum	_	_
-8	a	e	DET	_	Case=Acc|Number=Sing|Person=3	10	reparandum	_	_
+7	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	9	reparandum	_	_
+8	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	10	reparandum	_	_
 9	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	11	expl	_	_
 10	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	11	expl	_	_
 11	pa	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
@@ -11749,7 +11749,7 @@
 8	shum	shumë	ADV	_	_	10	advmod	_	_
 9	koh	kohë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	reparandum	_	_
 10	koh	kohë	NOUN	_	_	3	conj	_	_
-11	e	e	DET	_	Case=Nom|Number=Sing|Person=3	12	det	_	_
+11	e	e	DET	_	Case=Nom|Number=Sing	12	det	_	_
 12	kandshme	këndëshme	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	10	amod	_	_
 13	ndodhi	ndodhi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	_
 14	kurgjo	kurgjo	PRON	_	Definite=Ind	13	nsubj	_	_
@@ -11847,7 +11847,7 @@
 2	kon	jam	VERB	_	VerbForm=Part	0	root	_	_
 3	njerzit	njeri	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
 4	ma	ma	PART	_	_	6	mark	_	_
-5	t	të	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	6	det	_	_
+5	t	të	DET	_	Case=Nom|Gender=Masc|Number=Plur	6	det	_	_
 6	lidht	lidht	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	obj	_	_
 7	ner	ner	ADP	_	_	8	case	_	_
 8	veti	veti	PRON	_	PronType=Prs|Reflex=Yes	6	nmod	_	_
@@ -11865,7 +11865,7 @@
 8	sicili	sicili	PRON	_	Case=Nom|Definite=Ind	7	xcomp	_	_
 9	per	per	ADP	_	_	10	case	_	_
 10	veti	veti	PRON	_	Case=Acc|Number=Sing|PronType=Prs|Reflex=Yes	8	nmod	_	_
-11	m	më	DET	_	Case=Dat|Number=Sing|Person=1	12	det	_	_
+11	m	më	PRON	_	Case=Dat|Number=Sing|Person=1	12	det	_	_
 12	veti	veti	PRON	_	Case=Acc|Number=Sing|PronType=Prs|Reflex=Yes	10	nmod	_	_
 13	m	më	PRON	_	Case=Dat|Number=Sing|Person=1	15	iobj	_	_
 14	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	15	expl	_	_
@@ -12088,7 +12088,7 @@
 8	kalon	kaloj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	nje	një	DET	_	_	10	det	_	_
 10	djalosh	djalosh	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	_
-11	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	det	_	_
+11	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	12	det	_	_
 12	vogël	vogël	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	_
 13	me	me	ADP	_	_	14	case	_	_
 14	bicikul	bicikëll	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	_	_
@@ -12197,7 +12197,7 @@
 7	me	me	ADP	_	_	9	case	_	_
 8	tri	tre	NUM	_	Gender=Fem|NumType=Card	9	nummod	_	_
 9	da:rthat	dardhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	5	obl	_	_
-10	te	të	DET	_	Case=Acc|Number=Plur|Person=3	11	det	_	_
+10	te	të	DET	_	Case=Acc|Number=Plur	11	det	_	_
 11	vjedhura	vjedhur	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	9	amod	_	_
 12	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -12213,7 +12213,7 @@
 8	mungon	mungoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
 9	nje	një	DET	_	_	10	det	_	_
 10	korp	korpë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	obj	_	_
-11	e	e	DET	_	Case=Nom|Number=Sing|Person=3	12	det	_	_
+11	e	e	DET	_	Case=Nom|Number=Sing	12	det	_	_
 12	mbushum	mbushume	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	10	amod	_	_
 13	me	me	ADP	_	_	14	case	_	_
 14	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	12	nmod	_	_
@@ -12247,8 +12247,8 @@
 3	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	4	expl	_	_
 4	shikon	shikoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ata	ata	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-6	i:	i	DET	_	Case=Acc|Number=Plur|Person=3	9	reparandum	_	_
-7	i:	i	DET	_	Case=Acc|Number=Plur|Person=3	9	reparandum	_	_
+6	i:	i	PRON	_	Case=Acc|Number=Plur|Person=3	12	reparandum	_	_
+7	i:	i	PRON	_	Case=Acc|Number=Plur|Person=3	12	reparandum	_	_
 8	ëhëm	ëhm	INTJ	_	_	12	discourse	_	_
 9	dhe	dhe	CCONJ	_	_	12	cc	_	_
 10	ma	ma	PART	_	_	12	mark	_	_
@@ -12340,7 +12340,7 @@
 25	pru	bij	VERB	_	VerbForm=Inf	18	acl	_	_
 26	ata	ata	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	27	det	_	_
 27	dardhat	dardhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	25	obj	_	_
-28	e	e	DET	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	29	det	_	_
+28	e	e	DET	_	Case=Acc|Gender=Fem|Number=Plur	29	det	_	_
 29	tjera	tjetër	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	27	amod	_	_
 30	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -12545,7 +12545,7 @@
 14	qe	që	SCONJ	_	_	16	mark	_	_
 15	jan	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
 16	dardhat	dardhë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	8	ccomp	_	_
-17	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	18	det	_	_
+17	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing	18	det	_	_
 18	tina	tina	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
 19	amo	ama	CCONJ	_	_	22	cc	_	_
 20	s	s	PART	_	Polarity=Neg	22	advmod	_	_
@@ -12760,7 +12760,7 @@
 1	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	5	cop	_	_
 2	një	një	DET	_	Definite=Ind	3	det	_	_
 3	film	film	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	_
-4	i	i	DET	_	Case=Nom|Number=Sing|Person=3	5	det	_	_
+4	i	i	DET	_	Case=Nom|Number=Sing	5	det	_	_
 5	shkurt	shkurtë	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 6	qe	që	PRON	_	PronType=Rel	7	nsubj	_	_
 7	tregojke	tregoj	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	acl	_	_
@@ -12845,7 +12845,7 @@
 17	nj	një	DET	_	_	19	det	_	_
 18	ni	një	DET	_	_	19	det	_	_
 19	korb	korbë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
-20	mbush	mbushi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	amod	_	_
+20	mbush	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	19	amod	_	_
 21	me	me	ADP	_	_	22	case	_	_
 22	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	19	obl	_	_
 23	.	.	PUNCT	_	_	3	punct	_	_
@@ -13050,7 +13050,7 @@
 2	vjen	vij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	nje	një	DET	_	_	4	det	_	_
 4	djal	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
-5	i	i	DET	_	Case=Nom|Number=Sing|Person=3	6	det	_	_
+5	i	i	DET	_	Case=Nom|Number=Sing	6	det	_	_
 6	vogël	vogël	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
 7	me	me	ADP	_	_	9	case	_	_
 8	një	një	DET	_	Definite=Ind	9	det	_	_
@@ -13144,8 +13144,8 @@
 10	me	me	ADP	_	_	11	case	_	_
 11	biciklet	biçikletë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	nmod	_	_
 12	ajo	ajo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	17	nsubj	_	_
-13	j	i	DET	_	Case=Dat|Number=Sing|Person=3	17	reparandum	_	_
-14	a:/	a	DET	_	Case=Acc|Number=Sing|Person=3	17	reparandum	_	_
+13	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	17	reparandum	_	_
+14	a:/	a	PRON	_	Case=Acc|Number=Sing|Person=3	17	reparandum	_	_
 15	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	_
 16	e	e	PRON	_	Case=Dat|Number=Sing|Person=3	17	expl	_	_
 17	ka	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
@@ -13354,7 +13354,7 @@
 20	edhe	edhe	CCONJ	_	_	21	cc	_	_
 21	rrin	rri	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
 22	atu	aty	ADV	_	_	21	advmod	_	_
-23	i	i	DET	_	Case=Nom|Number=Sing|Person=3	24	det	_	_
+23	i	i	DET	_	Case=Nom|Number=Sing	24	det	_	_
 24	hutun	hutume	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	21	obj	_	_
 25	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -13487,7 +13487,7 @@
 2	dhe:	dhe	CCONJ	_	_	3	cc	_	_
 3	shpo:rtat	shportë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	_
 4	ja:n	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
-5	t	të	DET	_	Case=Nom|Number=Plur|Person=3	6	det	_	_
+5	t	të	DET	_	Case=Nom|Number=Plur	6	det	_	_
 6	mdha:ja	madhe	ADJ	_	_	0	root	_	_
 7	sa	sa	ADV	_	_	14	advmod	_	_
 8	që:	që	SCONJ	_	_	14	mark	_	_
@@ -13508,7 +13508,7 @@
 5	biqikle:t	biçikletë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	_
 6	at	at	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
 7	shpo:rten	shportë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
-8	e	e	DET	_	Case=Acc|Number=Sing|Person=3	9	det	_	_
+8	e	e	DET	_	Case=Acc|Number=Sing	9	det	_	_
 9	da:rdhes	dardhë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 10	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -13559,7 +13559,7 @@
 11	qe	që	PRON	_	PronType=Rel	15	nsubj	_	_
 12	osht	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
 13	poashtu	ashtu	CCONJ	_	_	15	advmod	_	_
-14	e	e	DET	_	Case=Acc|Number=Sing|Person=3	15	det	_	_
+14	e	e	DET	_	Case=Acc|Number=Sing	15	det	_	_
 15	mo:shes	moshë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	10	acl	_	_
 16	ti	ti	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
 17	.	.	PUNCT	_	_	5	punct	_	_
@@ -13598,7 +13598,7 @@
 5	qe	që	PRON	_	PronType=Rel	9	nsubj	_	_
 6	ishin	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	9	cop	_	_
 7	poashtu	ashtu	CCONJ	_	_	9	advmod	_	_
-8	t	të	DET	_	Case=Nom|Number=Plur|Person=3	9	det	_	_
+8	t	të	DET	_	Case=Nom|Number=Plur	9	det	_	_
 9	mo:shes	moshë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur	3	acl	_	_
 10	nje:jt	njëjtë	ADJ	_	_	9	amod	_	_
 11	vi:n	vij	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -13607,7 +13607,7 @@
 14	ndimo:jn	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	reparandum	_	_
 15	ktë	ktë	PRON	_	Case=Acc|Number=Sing|PronType=Dem	14	obj	_	_
 16	ë	ë	CCONJ	_	_	18	cc	_	_
-17	i	i	DET	_	Case=Dat|Number=Sing|Person=3	18	det	_	_
+17	i	i	PRON	_	Case=Dat|Number=Sing	18	iobj	_	_
 18	ndimo:jn	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
 19	kti	kti	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	_
 20	dja:lit	djalë	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	18	obj	_	_
@@ -13626,7 +13626,7 @@
 4	qe	që	SCONJ	_	_	6	mark	_	_
 5	ishin	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	6	cop	_	_
 6	da:rdhat	dardhë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	ccomp	_	_
-7	e	e	DET	_	Case=Nom|Number=Plur|Person=3	8	det	_	_
+7	e	e	DET	_	Case=Nom|Number=Plur	8	det	_	_
 8	ti	ti	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	nmod	_	_
 9	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -13652,7 +13652,7 @@
 18	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	19	expl	_	_
 19	vazhdon	vazhdoj	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	_
 20	rru:g	rrugë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	19	obj	_	_
-21	t	të	DET	_	Case=Nom|Number=Sing|Person=3	22	det	_	_
+21	t	të	DET	_	Case=Nom|Number=Sing	22	det	_	_
 22	ijit	ijit	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	20	nmod	_	_
 23	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -13750,7 +13750,7 @@
 18	sho:qët/	shoqe	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	20	reparandum	_	_
 19	me	me	ADP	_	_	20	case	_	_
 20	sho:kt	shok	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	16	obl	_	_
-21	e	e	DET	_	Case=Acc|Number=Sing|Person=3	22	det	_	_
+21	e	e	DET	_	Case=Acc|Number=Sing	22	det	_	_
 22	ti	ti	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nmod	_	_
 23	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -13787,7 +13787,7 @@
 1	edhe:	edhe	CCONJ	_	_	3	cc	_	_
 2	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	3	obj	_	_
 3	shef	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	i	i	DET	_	Case=Nom|Number=Sing|Person=3	5	det	_	_
+4	i	i	DET	_	Case=Nom|Number=Sing	5	det	_	_
 5	qudi:tur	cuditur	ADJ	_	_	6	amod	_	_
 6	bu:rri	burrë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
 7	shef	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
@@ -13845,7 +13845,7 @@
 4	shi:het	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	një	një	DET	_	Definite=Ind	6	det	_	_
 6	plak	plak	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	_
-7	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	det	_	_
+7	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
 8	cilli	cilli	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	13	nsubj	_	_
 9	me	me	ADP	_	_	10	case	_	_
 10	shka:ll	shkallë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	13	obl	_	_
@@ -13929,7 +13929,7 @@
 19	e:c	eci	VERB	_	VerbForm=Part	16	acl	_	_
 20	n	n	ADP	_	_	21	case	_	_
 21	dre:jtim	drejtim	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	_
-22	t	të	DET	_	Case=Acc|Number=Sing|Person=3	23	det	_	_
+22	t	të	DET	_	Case=Acc|Number=Sing	23	det	_	_
 23	kundërt	kundërt	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	21	amod	_	_
 24	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -14038,9 +14038,9 @@
 3	qoj	qoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	mallin	mal	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	_
 5	diku:n	dikun	ADV	_	_	7	advmod	_	_
-6	i	i	DET	_	Case=Dat|Number=Plur|Person=3	7	det	_	_
+6	i	i	DET	_	Case=Dat|Number=Plur	7	det	_	_
 7	viteve	vit	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	3	obj	_	_
-8	te	të	DET	_	Case=Acc|Number=Sing|Person=3	9	det	_	_
+8	te	të	DET	_	Case=Acc|Number=Sing	9	det	_	_
 9	dhe:ta	dheta	NUM	_	NumType=Ord	7	nummod	_	_
 10	nodhe:ta	nodheta	NUM	_	NumType=Ord	9	conj	_	_
 11	.	.	PUNCT	_	_	3	punct	_	_
@@ -14060,8 +14060,8 @@
 11	tu	tu	PART	_	_	12	mark	_	_
 12	nu:k	nuki	VERB	_	VerbForm=Part	2	conj	_	_
 13	dardha:	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	12	obj	_	_
-14	t	të	DET	_	Case=Dat|Number=Sing|Person=2	16	det	_	_
-15	a	e	DET	_	Case=Acc|Number=Sing|Person=3	16	det	_	_
+14	t	të	PART	_	_	16	mark	_	_
+15	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	16	obj	_	_
 16	thom	thom	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	21	discourse	_	_
 17	a	a	CCONJ	_	_	18	cc	_	_
 18	di	di	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	21	discourse	_	_
@@ -14356,7 +14356,7 @@
 10	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	9	obj	_	_
 11	në	në	ADP	_	_	12	case	_	_
 12	dardhën	dardhë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
-13	e	e	DET	_	Case=Acc|Number=Sing|Person=3	14	det	_	_
+13	e	e	DET	_	Case=Acc|Number=Sing	14	det	_	_
 14	tij	ai	PRON	_	Gender=Masc|Number=Sing|PronType=Prs	12	nmod	_	_
 15	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -14437,7 +14437,7 @@
 2	erdhi:	vij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	një	një	DET	_	Definite=Ind	4	det	_	_
 4	djal	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
-5	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	det	_	_
+5	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	6	det	_	_
 6	ri:	re	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
 7	me	me	ADP	_	_	9	case	_	_
 8	një	një	DET	_	Definite=Ind	9	det	_	_
@@ -14605,11 +14605,11 @@
 12	/se	se	SCONJ	_	_	14	mark	_	_
 13	ishin	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	14	cop	_	_
 14	dardhat	dardhë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	8	advcl	_	_
-15	e	e	DET	_	Case=Nom|Number=Plur|Person=3	16	det	_	_
+15	e	e	DET	_	Case=Nom|Number=Plur	16	det	_	_
 16	ktij	ktij	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	14	nmod	_	_
 17	e	e	CCONJ	_	_	18	cc	_	_
 18	jo	jo	PART	_	_	14	conj	_	_
-19	t	të	DET	_	Case=Nom|Number=Plur|Person=3	21	det	_	_
+19	t	të	DET	_	Case=Nom|Number=Plur	21	det	_	_
 20	ati	ati	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
 21	tjetrit	tjetër	ADJ	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	18	obj	_	_
 22	.	.	PUNCT	_	_	4	punct	_	_
@@ -14692,8 +14692,8 @@
 16	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	17	iobj	_	_
 17	ndimuan	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
 18	nuk	nuk	PART	_	Polarity=Neg	21	advmod	_	_
-19	u	u	DET	_	Case=Dat|Number=Plur|Person=3	21	det	_	_
-20	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	21	expl	_	_
+19	u	u	PRON	_	Case=Dat|Number=Plur|Person=3	21	iobj	_	_
+20	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	21	obj	_	_
 21	dha:	jap	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	ccomp	_	_
 22	fare	fare	PRON	_	Definite=Ind	21	obl	_	_
 23	.	.	PUNCT	_	_	3	punct	_	_
@@ -14704,7 +14704,7 @@
 2	që	që	SCONJ	_	_	1	fixed	_	_
 3	ky:	ky	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	zotria	zotëri	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
-5	i	i	DET	_	Case=Nom|Number=Sing|Person=3	6	det	_	_
+5	i	i	DET	_	Case=Nom|Number=Sing	6	det	_	_
 6	dardhës	dardhë	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
 7	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	zbritur	zbriti	VERB	_	VerbForm=Part	0	root	_	_
@@ -14716,7 +14716,7 @@
 14	ati:	ati	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 15	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	16	expl	_	_
 16	mungonte	mungoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	12	ccomp	_	_
-17	njëri	njëri	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	18	det	_	_
+17	njëri	njëri	PRON	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	18	det	_	_
 18	kosh	kosh	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	16	obj	_	_
 19	dhe	dhe	CCONJ	_	_	22	cc	_	_
 20	nuk	nuk	PART	_	Polarity=Neg	22	advmod	_	_
@@ -14756,7 +14756,7 @@
 8	se	se	SCONJ	_	_	9	mark	_	_
 9	ishin	jam	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	6	advcl	_	_
 10	dardha:t	dardhë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	nsubj	_	_
-11	e	e	DET	_	Case=Nom|Number=Sing|Person=3	12	det	_	_
+11	e	e	DET	_	Case=Nom|Number=Sing	12	det	_	_
 12	tij	ai	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 13	sepse	sepse	CCONJ	_	_	16	mark	_	_
 14	kta	kta	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	16	nsubj	_	_
@@ -14774,10 +14774,10 @@
 5	do	du	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	discourse	_	_
 6	me	me	PART	_	_	5	fixed	_	_
 7	thonë	thom	VERB	_	VerbForm=Inf	5	fixed	_	_
-8	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	det	_	_
+8	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	9	det	_	_
 9	qartë	qartë	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	_
 10	gjërat	gjë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	14	obj	_	_
-11	e	e	DET	_	Case=Nom|Gender=Fem|Number=Plur|Person=3	12	det	_	_
+11	e	e	DET	_	Case=Nom|Gender=Fem|Number=Plur	12	det	_	_
 12	hu:ja	huj	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	10	nmod	_	_
 13	nuk	nuk	PART	_	Polarity=Neg	14	advmod	_	_
 14	bon	baj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
@@ -15038,7 +15038,7 @@
 16	n	n	ADP	_	_	17	case	_	_
 17	anve	anë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	13	obl	_	_
 18	ëhëm	ëhm	INTJ	_	_	20	discourse	_	_
-19	t	të	DET	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	20	det	_	_
+19	t	të	DET	_	Case=Dat|Gender=Fem|Number=Sing	20	det	_	_
 20	majt	majt	ADJ	_	Number=Sing	17	amod	_	_
 21	.	.	PUNCT	_	_	13	punct	_	_
 
@@ -15051,7 +15051,7 @@
 5	pa:	shoh	VERB	_	VerbForm=Part	0	root	_	_
 6	ni	një	DET	_	_	7	det	_	_
 7	bujk	bujk	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	_
-8	m	më	DET	_	Case=Dat|Number=Sing|Person=3	9	nsubj	_	_
+8	m	me	PRON	_	Case=Dat|Number=Sing|Person=3	9	nsubj	_	_
 9	duket	dokna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	parataxis	_	_
 10	qi	qi	PRON	_	PronType=Rel	9	ccomp	_	_
 11	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	13	expl	_	_
@@ -15065,7 +15065,7 @@
 19	shkall	shkallë	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	17	obj	_	_
 20	edhe	edhe	CCONJ	_	_	23	cc	_	_
 21	tu	tu	PART	_	_	23	nmod	_	_
-22	i	i	DET	_	Case=Acc|Number=Plur|Person=3	23	det	_	_
+22	i	i	PRON	_	Case=Acc|Number=Plur	23	obj	_	_
 23	shkut	shkoj	VERB	_	VerbForm=Part	17	conj	_	_
 24	do	do	PRON	_	Definite=Ind	25	det	_	_
 25	da:rdha	dardhë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	23	nmod	_	_
@@ -15121,14 +15121,14 @@
 14	me	me	ADP	_	_	16	case	_	_
 15	ni	një	DET	_	_	16	det	_	_
 16	korb	korbë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	13	obl	_	_
-17	t	të	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	18	det	_	_
+17	t	të	DET	_	Case=Acc|Gender=Fem|Number=Sing	18	det	_	_
 18	vogël	vogël	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	16	amod	_	_
 19	jo	jo	PART	_	_	21	advmod	_	_
-20	t	të	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	21	det	_	_
+20	t	të	DET	_	Case=Acc|Gender=Fem|Number=Sing	21	det	_	_
 21	vogël	vogël	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	18	amod	_	_
 22	po	po	CCONJ	_	_	25	cc	_	_
 23	kogja	koxha	ADV	_	_	25	advmod	_	_
-24	t	të	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	25	det	_	_
+24	t	të	DET	_	Case=Acc|Gender=Fem|Number=Sing	25	det	_	_
 25	ma:dhe	madhe	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	21	conj	_	_
 26	.	.	PUNCT	_	_	13	punct	_	_
 
@@ -15208,7 +15208,7 @@
 13	mund	muj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
 14	kurgjo	kurgjo	PRON	_	Definite=Ind	13	obj	_	_
 15	osht	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
-16	e	e	DET	_	Case=Acc|Number=Sing|Person=3	17	det	_	_
+16	e	e	PRON	_	Case=Acc|Number=Sing	17	obj	_	_
 17	vjedh	vjedhi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
 18	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -15233,7 +15233,7 @@
 # sent_id = Z-A-G3-DOLLI00_11
 # text = edhe: um doket qe ë:hëm j u doket pak atraktive kshtu si aj kshyr mas asajna qikes edhe rrzohet prej bicikles .
 1	edhe:	edhe	CCONJ	_	_	3	cc	_	_
-2	um	më	DET	_	Case=Dat|Number=Sing|Person=1	3	det	_	_
+2	um	më	PRON	_	Case=Dat|Number=Sing|Person=1	3	nsubj	_	_
 3	doket	dokna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	qe	që	SCONJ	_	_	8	mark	_	_
 5	ë:hëm	ëhm	INTJ	_	_	8	discourse	_	_
@@ -15341,7 +15341,7 @@
 8	apet	apet	ADV	_	_	7	advmod	_	_
 9	per	per	ADP	_	_	10	case	_	_
 10	rrugen	rrugë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	_
-11	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	det	_	_
+11	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	12	det	_	_
 12	vet	vet	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	nmod	_	_
 13	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -15360,7 +15360,7 @@
 11	hup	hupi	VERB	_	VerbForm=Part	7	ccomp	_	_
 12	ëhëm	ëhm	INTJ	_	_	13	discourse	_	_
 13	kapuqin	kapuq	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	_
-14	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	15	det	_	_
+14	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
 15	vet	vet	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	nmod	_	_
 16	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -15370,9 +15370,9 @@
 2	kapuq	kapuq	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 3	diqysh	diqysh	ADV	_	_	2	advmod	_	_
 4	si	si	ADV	_	_	5	case	_	_
-5	cowboy	cowboy	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	_
+5	cowboy	cowboy	NOUN	_	Case=Nom|Definite=Ind|Foreign=yes|Gender=Masc|Number=Sing	2	nmod	_	Lang=en
 6	m	më	PRON	_	Case=Dat|Number=Sing|Person=1	9	iobj	_	_
-7	u	u	DET	_	Case=Acc|Number=Sing|Person=3	9	det	_	_
+7	u	u	PRON	_	Case=Acc|Number=Sing|Person=3	9	expl	_	_
 8	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 9	dokt	dokna	VERB	_	VerbForm=Part	2	conj	_	_
 10	mun	muj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
@@ -15406,7 +15406,7 @@
 18	bjen	bij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
 19	ket	ket	PRON	_	Case=Acc|Number=Sing|PronType=Dem	20	det	_	_
 20	kapuqin	kapuq	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	18	obj	_	_
-21	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	det	_	_
+21	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing	22	det	_	_
 22	vet	vet	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	20	nmod	_	_
 23	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	24	obj	_	_
 24	vnon	vnoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	_
@@ -15430,7 +15430,7 @@
 3	osth	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 4	ni	një	DET	_	_	5	det	_	_
 5	scene	scenë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-6	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	det	_	_
+6	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing	7	det	_	_
 7	vogël	vogël	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
 8	qi	qi	PRON	_	PronType=Rel	9	nsubj	_	_
 9	shihen	shoh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	acl	_	_
@@ -15455,7 +15455,7 @@
 28	ëhëm	ëhm	INTJ	_	_	30	discourse	_	_
 29	me	me	ADP	_	_	30	case	_	_
 30	shkallen	shkallë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	26	obl	_	_
-31	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	32	det	_	_
+31	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	32	det	_	_
 32	vet	vet	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	30	nmod	_	_
 33	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -15473,9 +15473,9 @@
 10	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	11	obj	_	_
 11	she	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
 12	qe	që	SCONJ	_	_	18	mark	_	_
-13	i:	i	DET	_	Case=Acc|Number=Plur|Person=3	14	det	_	_
+13	i:	i	DET	_	Case=Acc|Number=Plur	14	det	_	_
 14	korpa	korpë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	18	nsubj	_	_
-15	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	det	_	_
+15	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing	16	det	_	_
 16	tret	tret	NUM	_	NumType=Ord	14	nummod	_	_
 17	nuk	nuk	PART	_	Polarity=Neg	18	advmod	_	_
 18	osht	jam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	xcomp	_	_
@@ -15493,7 +15493,7 @@
 7	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	vjedh	vjedhi	VERB	_	VerbForm=Part	5	conj	_	_
 9	korben	korbë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
-10	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	det	_	_
+10	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	11	det	_	_
 11	tret	tret	NUM	_	NumType=Ord	9	nummod	_	_
 12	edhe	edhe	CCONJ	_	_	15	cc	_	_
 13	veq	veç	ADV	_	_	15	advmod	_	_
@@ -15566,11 +15566,11 @@
 2	n:jo	njo	NUM	_	NumType=Card	6	nsubj	_	_
 3	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 4	kon	jam	AUX	_	VerbForm=Part	6	cop	_	_
-5	e	e	DET	_	Case=Acc|Number=Sing|Person=3	6	det	_	_
+5	e	e	DET	_	Case=Acc|Number=Sing	6	det	_	_
 6	mush	mush	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
 7	a	a	PART	_	_	13	reparandum	_	_
 8	p	po	PART	_	_	13	reparandum	_	_
-9	e	e	DET	_	Case=Acc|Number=Sing|Person=3	13	reparandum	_	_
+9	e	e	DET	_	Case=Acc|Number=Sing	13	reparandum	_	_
 10	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
 11	kon	jam	AUX	_	VerbForm=Part	13	cop	_	_
 12	dordha	dardhë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	13	nsubj	_	_
@@ -15849,7 +15849,7 @@
 1	ë:hm	ëhm	INTJ	_	_	7	discourse	_	_
 2	n	n	ADP	_	_	3	case	_	_
 3	fillim	fillim	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	_
-4	t	të	DET	_	Case=Dat|Number=Sing|Person=3	5	det	_	_
+4	t	të	DET	_	Case=Dat|Number=Sing	5	det	_	_
 5	filmit	film	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	_
 6	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	7	expl	_	_
 7	she	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -15884,7 +15884,7 @@
 3	ka	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	dy	dy	NUM	_	NumType=Card	5	nummod	_	_
 5	korpat	korpë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	3	obj	_	_
-6	t	të	DET	_	Case=Acc|Number=Plur|Person=3	7	det	_	_
+6	t	të	DET	_	Case=Acc|Number=Plur	7	det	_	_
 7	mushta	mbusht	ADJ	_	Case=Acc|Number=Plur	5	amod	_	_
 8	edhe	edhe	CCONJ	_	_	10	cc	_	_
 9	don	du	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	reparandum	_	_
@@ -15982,7 +15982,7 @@
 10	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	6	nmod	_	_
 11	qe	që	PRON	_	PronType=Rel	14	nsubj	_	_
 12	osht	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
-13	e	e	DET	_	Case=Nom|Number=Sing|Person=3	14	det	_	_
+13	e	e	DET	_	Case=Nom|Number=Sing	14	det	_	_
 14	musht	mbusht	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	6	acl	_	_
 15	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -16030,7 +16030,7 @@
 10	tok	tokë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	_
 11	edhe	edhe	CCONJ	_	_	12	cc	_	_
 12	qohet	qohna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
-13	j	i	DET	_	Case=Dat|Number=Sing|Person=3	15	det	_	_
+13	j	j	PRON	_	Case=Dat|Number=Sing	15	iobj	_	_
 14	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	15	obj	_	_
 15	nis	nisi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
 16	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	17	expl	_	_
@@ -16100,7 +16100,7 @@
 2	she	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	aty	aty	ADV	_	_	2	advmod	_	_
 4	at	at	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-5	t	të	DET	_	Case=Nom|Number=Sing|Person=3	6	det	_	_
+5	t	të	DET	_	Case=Nom|Number=Sing	6	det	_	_
 6	vet	vet	PRON	_	Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	2	obj	_	_
 7	tre	tre	NUM	_	Gender=Masc|NumType=Card	8	nummod	_	_
 8	dgjemve	djalë	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	2	conj	_	_
@@ -16140,7 +16140,7 @@
 11	djali	djalë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
 12	te	te	ADP	_	_	13	case	_	_
 13	shokt	shok	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	9	obl	_	_
-14	e	e	DET	_	Case=Acc|Number=Sing|Person=3	15	det	_	_
+14	e	e	DET	_	Case=Acc|Number=Sing	15	det	_	_
 15	vet	vet	PRON	_	Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	13	nmod	_	_
 16	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	18	expl	_	_
 17	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	_
@@ -16425,7 +16425,7 @@
 18	tu	tu	PART	_	_	19	mark	_	_
 19	mungue	mungoj	VERB	_	VerbForm=Part	17	xcomp	_	_
 20	amo	ama	CCONJ	_	_	22	cc	_	_
-21	m	më	DET	_	Case=Dat|Number=Sing|Person=1	22	det	_	_
+21	m	më	PRON	_	Case=Dat|Number=Sing|Person=1	22	nsubj	_	_
 22	doket	dokna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
 23	tana	tana	ADV	_	_	25	advmod	_	_
 24	u	u	PART	_	_	25	mark	_	_
@@ -16507,7 +16507,7 @@
 3	dja:l	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	me	me	ADP	_	_	5	case	_	_
 5	bicikle:t	biçikletë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	_
-6	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	det	_	_
+6	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
 7	cili:	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
 8	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	10	iobj	_	_
 9	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	10	expl	_	_
@@ -16524,8 +16524,8 @@
 # sent_id = P-A-G2-LARE80_6
 # text = edhe j a/ mmm u:n e kuptoj që j a j a vjedh ky n/ni: ko:f me da:rdha .
 1	edhe	edhe	CCONJ	_	_	7	cc	_	_
-2	j	i	DET	_	Case=Dat|Number=Sing|Person=3	7	reparandum	_	_
-3	a/	a	DET	_	Case=Acc|Number=Sing|Person=3	7	reparandum	_	_
+2	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	7	reparandum	_	_
+3	a/	a	PRON	_	Case=Acc|Number=Sing|Person=3	7	reparandum	_	_
 4	mmm	ëhm	INTJ	_	_	7	discourse	_	_
 5	u:n	un	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	7	obj	_	_
@@ -16598,7 +16598,7 @@
 9	me	me	PART	_	_	11	mark	_	_
 10	u	u	PART	_	Reflex=Yes	11	mark	_	_
 11	rrëzu:	rrzohna	VERB	_	VerbForm=Inf	14	advcl	_	_
-12	e:	e	DET	_	Case=Acc|Number=Sing|Person=3	13	reparandum	_	_
+12	e:	e	DET	_	Case=Acc|Number=Sing	13	reparandum	_	_
 13	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	14	expl	_	_
 14	sheh	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 15	një	një	DET	_	_	16	det	_	_
@@ -16665,7 +16665,7 @@
 19	po:sht	poshtë	ADV	_	_	18	advmod	_	_
 20	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	21	obj	_	_
 21	shef	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	_
-22	nj/	një	DET	_	_	24	det	_	_
+22	nj/	një	DET	_	_	23	reparandum	_	_
 23	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	24	expl	_	_
 24	mungo:n	mungoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	ccomp	_	_
 25	një	një	DET	_	Definite=Ind	26	det	_	_
@@ -16733,7 +16733,7 @@
 17	krijo:jm	krijoj	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	_
 18	bi:ndje	bindje	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	17	obj	_	_
 19	ëhm	ëhm	INTJ	_	_	21	discourse	_	_
-20	të	të	DET	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	21	det	_	_
+20	të	të	DET	_	Case=Acc|Gender=Fem|Number=Plur	21	det	_	_
 21	gabu:ara	gabuar	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	18	amod	_	_
 22	për	për	ADP	_	_	23	case	_	_
 23	njerzit	njeri	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	18	nmod	_	_
@@ -17085,7 +17085,7 @@
 13	dul	dal	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 14	një	një	DET	_	Definite=Ind	15	det	_	_
 15	bujk	bujk	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	_
-16	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	det	_	_
+16	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	17	det	_	_
 17	cilli	cilli	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	19	nsubj	_	_
 18	e:	e	PRON	_	Case=Acc|Number=Sing|Person=3	19	expl	_	_
 19	vjelte	vjeli	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	15	acl	_	_
@@ -17098,7 +17098,7 @@
 2	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	3	expl	_	_
 3	mbu:shte	mbushi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
 4	shportat	shportë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	3	obj	_	_
-5	t	të	DET	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	6	det	_	_
+5	t	të	DET	_	Case=Acc|Gender=Fem|Number=Plur	6	det	_	_
 6	cillat	cillat	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	9	nsubj	_	_
 7	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	9	expl	_	_
 8	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	9	aux	_	_
@@ -17135,7 +17135,7 @@
 2	erdh	vij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	një	një	DET	_	Definite=Ind	4	det	_	_
 4	djal	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
-5	i	i	DET	_	Case=Nom|Number=Sing|Person=3	6	det	_	_
+5	i	i	DET	_	Case=Nom|Number=Sing	6	det	_	_
 6	ri:	re	ADJ	_	_	4	amod	_	_
 7	me	me	ADP	_	_	8	case	_	_
 8	biciklet	biçikletë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -17154,7 +17154,7 @@
 9	pa	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 10	edhe	edhe	CCONJ	_	_	11	cc	_	_
 11	shportat	shportë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	9	obj	_	_
-12	mbushun	mbushi	VERB	_	VerbForm=Part	11	amod	_	_
+12	mbushun	_	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	11	amod	_	_
 13	me	me	ADP	_	_	14	case	_	_
 14	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	12	nmod	_	_
 15	.	.	PUNCT	_	_	5	punct	_	_
@@ -17196,7 +17196,7 @@
 7	patë	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	njëfar	njëfar	ADV	_	_	9	advmod	_	_
 9	incidenti	incident	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	_
-10	t	të	DET	_	Case=Acc|Number=Sing|Person=3	11	det	_	_
+10	t	të	DET	_	Case=Acc|Number=Sing	11	det	_	_
 11	vogël	vogël	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_
 12	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -17212,7 +17212,7 @@
 8	me	me	ADP	_	_	10	case	_	_
 9	një	një	DET	_	Definite=Ind	10	det	_	_
 10	vajz	vajzë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	_
-11	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	det	_	_
+11	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing	12	det	_	_
 12	cilla	cilla	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	_
 13	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	16	cop	_	_
 14	gjithashtu	gjithashtu	CCONJ	_	_	16	advmod	_	_
@@ -17231,7 +17231,7 @@
 7	djal	djalë	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	obj	_	_
 8	duke	duke	PART	_	_	11	mark	_	_
 9	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	11	iobj	_	_
-10	a	e	DET	_	Case=Acc|Number=Sing|Person=3	11	det	_	_
+10	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	11	expl	_	_
 11	marr	marr	VERB	_	VerbForm=Part	5	ccomp	_	_
 12	ë:hm	ëhm	INTJ	_	_	13	discourse	_	_
 13	kapuqin	kapuq	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	_
@@ -17332,7 +17332,7 @@
 2	erdhën	vij	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	tre	tre	NUM	_	Gender=Masc|NumType=Card	4	nummod	_	_
 4	djem	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	2	nsubj	_	_
-5	të	të	DET	_	Case=Nom|Number=Plur|Person=3	6	det	_	_
+5	të	të	DET	_	Case=Nom|Number=Plur	6	det	_	_
 6	cillt	cillt	PRON	_	PronType=Rel	9	nsubj	_	_
 7	menjiher	menjëherë	ADV	_	_	9	advmod	_	_
 8	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	9	obj	_	_
@@ -17830,7 +17830,7 @@
 8	ëhm	ëhm	INTJ	_	_	10	discourse	_	_
 9	ni	një	DET	_	_	10	det	_	_
 10	dja:l	djalë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	_
-11	i	i	DET	_	Case=Nom|Number=Sing|Person=3	12	det	_	_
+11	i	i	DET	_	Case=Nom|Number=Sing	12	det	_	_
 12	vo:gël	vogël	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	amod	_	_
 13	me	me	ADP	_	_	14	case	_	_
 14	bicikëll	bicikëll	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
@@ -18073,9 +18073,9 @@
 8	kishtë	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	conj	_	_
 9	thejshtë:	thjesht	ADV	_	_	8	advmod	_	_
 10	zhurma	zhurmë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	obj	_	_
-11	të:	të	DET	_	Case=Acc|Number=Sing|Person=3	12	det	_	_
+11	të:	të	DET	_	Case=Acc|Number=Sing	12	det	_	_
 12	tingujt	tingull	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	10	nmod	_	_
-13	ë	e	DET	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	14	det	_	_
+13	ë	e	DET	_	Case=Acc|Gender=Masc|Number=Plur	14	det	_	_
 14	naty:rës	natyrë	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
 15	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -18097,7 +18097,7 @@
 14	ose	ose	CCONJ	_	_	16	cc	_	_
 15	një:	një	DET	_	_	16	det	_	_
 16	bujk	bujk	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	conj	_	_
-17	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	det	_	_
+17	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	18	det	_	_
 18	cili:	cili	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	_
 19	ëhm	ëhm	INTJ	_	_	20	discourse	_	_
 20	plithtë:	plithi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	16	acl	_	_
@@ -18255,7 +18255,7 @@
 3	kuptoe	kuptoj	VERB	_	VerbForm=Part	0	root	_	_
 4	që	që	SCONJ	_	_	7	mark	_	_
 5	ai	ai	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-6	ë:h	ëh	DET	_	Case=Acc|Number=Sing|Person=3	7	discourse	_	_
+6	ë:h	ëh	INTJ	_	_	7	discourse	_	_
 7	gje:ti	gjej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 8	momentin	moment	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	_
 9	dhë:	dhe	CCONJ	_	_	10	cc	_	_
@@ -18263,7 +18263,7 @@
 11	një	një	DET	_	Definite=Ind	13	det	_	_
 12	ni	një	DET	_	_	13	det	_	_
 13	kosh	kosh	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	_
-14	të	të	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	15	det	_	_
+14	të	të	DET	_	Case=Acc|Gender=Fem|Number=Sing	15	det	_	_
 15	mbushur	mbushur	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
 16	plët	plot	ADV	_	_	15	advmod	_	_
 17	më	unë	ADP	_	_	18	case	_	_
@@ -18280,7 +18280,7 @@
 2	ajo	ajo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	reparandum	_	_
 3	askush	askush	PRON	_	Definite=Ind	4	det	_	_
 4	vëmëndja	vëmëndje	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
-5	ë:h:h:	e	DET	_	Case=Acc|Number=Sing|Person=3	6	det	_	_
+5	ë:h:h:	e	DET	_	Case=Acc|Number=Sing	6	det	_	_
 6	bujukt	bujk	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 7	që	që	PRON	_	PronType=Rel	9	nsubj	_	_
 8	ishtë	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	9	cop	_	_
@@ -18303,11 +18303,11 @@
 7	rru:gës	rrugë	NOUN	_	Case=Abl|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	_
 8	dhe	dhe	CCONJ	_	_	11	cc	_	_
 9	ni	një	DET	_	_	11	det	_	_
-10	të	të	DET	_	Case=Acc|Number=Sing|Person=3	11	det	_	_
+10	të	të	DET	_	Case=Acc|Number=Sing	11	det	_	_
 11	fa:tit	fat	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	19	obl	_	_
 12	dy	dy	NUM	_	NumType=Card	13	nummod	_	_
 13	fëmi	fmi	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	17	reparandum	_	_
-14	te	të	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	15	det	_	_
+14	te	të	DET	_	Case=Nom|Gender=Masc|Number=Plur	15	det	_	_
 15	tje:r	tjetër	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	13	amod	_	_
 16	tre	tre	NUM	_	Gender=Masc|NumType=Card	17	nummod	_	_
 17	fmi:	fmi	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	19	nsubj	_	_
@@ -18322,7 +18322,7 @@
 3	trugua	tregoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	shum	shumë	ADV	_	_	7	advmod	_	_
 5	ëh	ëhm	INTJ	_	_	7	discourse	_	_
-6	të	të	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	det	_	_
+6	të	të	DET	_	Case=Nom|Gender=Masc|Number=Plur	7	det	_	_
 7	sjellshëm	sjellshme	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	3	obj	_	_
 8	e	e	PRON	_	Case=Dat|Number=Sing|Person=3	9	obj	_	_
 9	ndihmua:n	ndihmoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
@@ -18331,7 +18331,7 @@
 12	dhë:	dhe	CCONJ	_	_	16	cc	_	_
 13	në	në	ADP	_	_	14	case	_	_
 14	fund	fund	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	_
-15	fare	fare	PART	_	_	16	mark	_	_
+15	fare	fare	ADV	_	_	16	advmod	_	_
 16	morën	marr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
 17	dhë	dhe	CCONJ	_	_	20	cc	_	_
 18	nga	nga	ADP	_	_	20	case	_	_
@@ -18399,9 +18399,9 @@
 8	ëh	ëh	INTJ	_	_	9	discourse	_	_
 9	bazat	bazat	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	_
 10	shum	shumë	ADV	_	_	9	advmod	_	_
-11	t	të	DET	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	12	det	_	_
+11	t	të	DET	_	Case=Acc|Gender=Fem|Number=Plur	12	det	_	_
 12	vasha:	vash	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	9	amod	_	_
-13	të	të	DET	_	Case=Dat|Number=Sing|Person=3	14	det	_	_
+13	të	të	DET	_	Case=Dat|Number=Sing	14	det	_	_
 14	edukatës	edukatë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
 15	elementa:re	elementare	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	14	amod	_	_
 16	.	.	PUNCT	_	_	6	punct	_	_
@@ -18411,9 +18411,9 @@
 1	do	du	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	discourse	_	_
 2	më	me	PART	_	_	1	fixed	_	_
 3	thën	thom	VERB	_	VerbForm=Part	1	fixed	_	_
-4	të	të	DET	_	Case=Dat|Number=Sing|Person=3	5	det	_	_
+4	të	të	DET	_	Case=Dat|Number=Sing	5	det	_	_
 5	falëmnderi:mit	falënderim	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	_
-6	të	të	DET	_	Case=Dat|Number=Sing|Person=3	7	det	_	_
+6	të	të	DET	_	Case=Dat|Number=Sing	7	det	_	_
 7	ndi:mës	ndihmë	NOUN	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
 8	që	që	SCONJ	_	_	9	obj	_	_
 9	mund	muj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -18437,14 +18437,14 @@
 # text = kto fmi t pafa:jshëm me gjith që ishin fmi t sjellshëm që kishin ndimuar dikë që ishte në nevoj kalo:jn posht pemës ku ishte: ky:y: fshatari më dor: më: më da:rdhën n dor: dukë grën naty:rshëm .
 1	kto	kto	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
 2	fmi	fmi	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	20	nsubj	_	_
-3	t	të	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	4	det	_	_
+3	t	të	DET	_	Case=Nom|Gender=Masc|Number=Plur	4	det	_	_
 4	pafa:jshëm	pafajshme	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
 5	me	me	ADP	_	_	6	case	_	_
 6	gjith	gjith	PRON	_	Definite=Ind	2	nmod	_	_
 7	që	që	SCONJ	_	_	9	mark	_	_
 8	ishin	jam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	fmi	fmi	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	2	acl	_	_
-10	t	të	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	11	det	_	_
+10	t	të	DET	_	Case=Nom|Gender=Masc|Number=Plur	11	det	_	_
 11	sjellshëm	sjellshme	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	_
 12	që	që	PRON	_	PronType=Rel	14	nsubj	_	_
 13	kishin	kam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	14	aux	_	_
@@ -18479,7 +18479,7 @@
 2	s	s	PART	_	Polarity=Neg	4	advmod	_	_
 3	kishin	kam	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	bër	baj	VERB	_	VerbForm=Part	0	root	_	_
-5	donjë	ndonjë	DET	_	_	6	det	_	_
+5	donjë	donjë	PRON	_	_	6	det	_	_
 6	faj	faj	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	_
 7	që	që	SCONJ	_	_	10	mark	_	_
 8	t	të	PART	_	_	10	mark	_	_
@@ -18510,7 +18510,7 @@
 2	fshatari	fshatar	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
 3	që	që	PRON	_	PronType=Rel	4	nsubj	_	_
 4	shikon	shikoj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
-5	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	det	_	_
+5	i	i	DET	_	Case=Nom|Gender=Masc|Number=Sing	6	det	_	_
 6	quditshëm	çuditshme	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
 7	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	9	expl	_	_
 8	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	9	aux	_	_
@@ -18547,7 +18547,7 @@
 11	s	s	PART	_	Polarity=Neg	13	advmod	_	_
 12	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	13	aux	_	_
 13	pa:r	shoh	VERB	_	VerbForm=Part	8	ccomp	_	_
-14	fa:re	fare	PART	_	_	13	advmod	_	_
+14	fa:re	fare	ADV	_	_	13	advmod	_	_
 15	asgjith	asgjith	PRON	_	Definite=Ind	13	obj	_	_
 16	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -18645,9 +18645,9 @@
 
 # sent_id = Z-A-G1-MIKO69_32
 # text = e tje:r e tje:r do më thën ishte ni situa:t se thuesh keqkupti:mësh .
-1	e	e	DET	_	Case=Acc|Number=Sing|Person=3	2	det	_	_
+1	e	e	DET	_	Case=Acc|Number=Sing	2	det	_	_
 2	tje:r	tjetër	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
-3	e	e	DET	_	Case=Acc|Number=Sing|Person=3	4	det	_	_
+3	e	e	DET	_	Case=Acc|Number=Sing	4	det	_	_
 4	tje:r	tjetër	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	_
 5	do	du	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	discourse	_	_
 6	më	me	PART	_	_	5	fixed	_	_
@@ -18694,7 +18694,7 @@
 18	t	të	PART	_	_	20	mark	_	_
 19	je:n	jam	AUX	_	Mood=Sub|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
 20	ata:	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	xcomp	_	_
-21	të	të	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	22	det	_	_
+21	të	të	DET	_	Case=Nom|Gender=Masc|Number=Plur	22	det	_	_
 22	cilit	cili	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	23	nsubj	_	_
 23	mund	muj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl	_	_
 24	t	të	PART	_	_	26	mark	_	_
@@ -18793,7 +18793,7 @@
 6	me	me	PART	_	_	7	mark	_	_
 7	kqyr	kqyri	VERB	_	VerbForm=Inf	5	xcomp	_	_
 8	kush	kush	PRON	_	PronType=Int	13	nsubj	_	_
-9	e	e	DET	_	Case=Acc|Number=Sing|Person=3	13	discourse	_	_
+9	e	eh	INTJ	_	_	13	discourse	_	_
 10	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	13	iobj	_	_
 11	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	13	obj	_	_
 12	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
