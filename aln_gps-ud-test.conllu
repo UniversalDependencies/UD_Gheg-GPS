@@ -9179,7 +9179,7 @@
 5	posh	poshtë	ADV	_	_	4	advmod	_	_
 6	i	i	PRON	_	Case=Acc|Number=Plur	7	expl	_	_
 7	njefa	njoh	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
-8	ni	ni	NUM	_	NumType=Card	8	reparandum	_	_
+8	ni	ni	NUM	_	NumType=Card	9	reparandum	_	_
 9	di	di	NUM	_	NumType=Card	7	obj	_	_
 10	edhe	edhe	CCONJ	_	_	13	cc	_	_
 11	nji	nji	NUM	_	NumType=Card	14	obj	_	_
@@ -10049,7 +10049,7 @@
 16	korp	korpë	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	obj	_	_
 17	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = Z-A-G3-BLJI04_3
+# sent_id = Z-A-G3-BLJI04_4
 # text = tani u kan ni qik me bicikell e ka vjel edhe ni korp .
 1	tani	tani	ADV	_	_	3	advmod	_	_
 2	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
@@ -15370,7 +15370,7 @@
 2	kapuq	kapuq	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 3	diqysh	diqysh	ADV	_	_	2	advmod	_	_
 4	si	si	ADV	_	_	5	case	_	_
-5	cowboy	cowboy	NOUN	_	Case=Nom|Definite=Ind|Foreign=yes|Gender=Masc|Number=Sing	2	nmod	_	Lang=en
+5	cowboy	cowboy	NOUN	_	Case=Nom|Definite=Ind|Foreign=Yes|Gender=Masc|Number=Sing	2	nmod	_	Lang=en
 6	m	më	PRON	_	Case=Dat|Number=Sing|Person=1	9	iobj	_	_
 7	u	u	PRON	_	Case=Acc|Number=Sing|Person=3	9	expl	_	_
 8	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
