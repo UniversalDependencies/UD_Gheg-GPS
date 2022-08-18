@@ -6474,8 +6474,8 @@
 1	ta:ni	tani	ADV	_	_	3	advmod	_	_
 2	ata	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	shkojn	shkoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	e	e	DET	_	Case=Acc|Number=Sing	5	det	_	_
-5	kapin	kapi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	obj	_	_
+4	e	e	PRON	_	Case=Acc|Number=Sing	5	obj	_	_
+5	kapin	kapi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 6	e	e	CCONJ	_	_	7	cc	_	_
 7	qojn	qoj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 8	at	at	PRON	_	Case=Acc|Number=Sing|PronType=Dem	9	det	_	_
@@ -7074,19 +7074,6 @@
 5	ni:	një	DET	_	_	6	det	_	_
 6	burr	burrë	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = Z-A-G3-NAKI07_2
-# text = ene aj dardha pi pi ke druni i: merte .
-1	ene	ene	CCONJ	_	_	3	cc	_	_
-2	aj	aj	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	_
-3	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
-4	pi	pi	ADP	_	_	5	reparandum	_	_
-5	pi	pi	ADP	_	_	6	reparandum	_	_
-6	ke	ke	ADP	_	_	7	case	_	_
-7	druni	dru	NOUN	_	Case=Abl|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
-8	i:	i	DET	_	Case=Acc|Number=Plur	9	det	_	_
-9	merte	marr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	7	amod	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = Z-A-G3-NAKI07_3
 # text = ene i veni ka ni shport .
@@ -8146,7 +8133,7 @@
 2	fi:lmin	film	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
 3	e	e	DET	_	Case=Acc|Number=Sing	5	det	_	_
 4	sapo	sapo	ADV	_	_	5	advmod	_	_
-5	tregu:ar	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	amod	_	_
+5	tregu:ar	treguar	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	amod	_	_
 6	paraqi:tet	paraqitna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	një:	një	DET	_	_	8	det	_	_
 8	pemta:r	pemtar	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -8936,7 +8923,7 @@
 14	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = Z-A-G1-RAMI57_4
-# text = hipi n dardh me mledh dardha i ka bo korpat posh me e mushte .
+# text = hipi n dardh me mledh dardha i ka bo korpat posh .
 1	hipi	hipi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	n	n	ADP	_	_	3	case	_	_
 3	dardh	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	_
@@ -8945,23 +8932,22 @@
 6	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	5	obj	_	_
 7	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	9	expl	_	_
 8	ka	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
-9	bo	baj	VERB	_	VerbForm=Part	1	conj	_	_
+9	bo	baj	VERB	_	VerbForm=Part	1	parataxis	_	_
 10	korpat	korpë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	9	obj	_	_
 11	posh	poshtë	ADV	_	_	9	advmod	_	_
-12	me	me	ADP	_	_	14	mark	_	_
-13	e	e	DET	_	Case=Acc|Number=Sing	14	det	_	_
-14	mushte	muj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	10	amod	_	_
-15	.	.	PUNCT	_	_	1	punct	_	_
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = Z-A-G1-RAMI57_5
-# text = prenin me: dardha e binte posh .
-1	prenin	pren	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
-2	me:	me	ADP	_	_	3	case	_	_
-3	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	_
-4	e	e	CCONJ	_	_	5	cc	_	_
-5	binte	bij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
-6	posh	poshtë	ADV	_	_	5	advmod	_	_
-7	.	.	PUNCT	_	_	1	punct	_	_
+# text = e mushte prenin me: dardha e binte posh .
+1	e	e	PRON	_	Case=Acc|Number=Sing	2	expl	_	_
+2	mushte	muj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	prenin	pren	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
+4	me:	me	ADP	_	_	5	case	_	_
+5	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	2	obl	_	_
+6	e	e	CCONJ	_	_	7	cc	_	_
+7	binte	bij	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	posh	poshtë	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = Z-A-G1-RAMI57_6
 # text = ene e mushte korpen hypi ni her dy her tre her edhe: e mushi ni korp e mushi dyten shtash treten .
@@ -12845,7 +12831,7 @@
 17	nj	një	DET	_	_	19	det	_	_
 18	ni	një	DET	_	_	19	det	_	_
 19	korb	korbë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	_
-20	mbush	_	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	19	amod	_	_
+20	mbush	mbushur	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	19	amod	_	_
 21	me	me	ADP	_	_	22	case	_	_
 22	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	19	obl	_	_
 23	.	.	PUNCT	_	_	3	punct	_	_
@@ -17154,7 +17140,7 @@
 9	pa	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 10	edhe	edhe	CCONJ	_	_	11	cc	_	_
 11	shportat	shportë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	9	obj	_	_
-12	mbushun	_	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	11	amod	_	_
+12	mbushun	mbushur	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	11	amod	_	_
 13	me	me	ADP	_	_	14	case	_	_
 14	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	12	nmod	_	_
 15	.	.	PUNCT	_	_	5	punct	_	_
