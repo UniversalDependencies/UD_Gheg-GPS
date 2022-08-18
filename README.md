@@ -1,13 +1,13 @@
 # Summary
 
-UD Gheg Pear Stories (GPS) contains oral narrations of Chafe's  *Pear Stories* by heritage speakers of Gheg Albanian living in  Switzerland and speakers from Pristina.
+UD Gheg Pear Stories (GPS) contains renarrations of Wallace Chafe's Pear Stories video (pearstories.org) by heritage speakers of Gheg Albanian living in Switzerland and speakers from Prishtina.
 
 
 # Introduction
 
-UD Gheg GPS contains 967 sentences from 64 recordings of Gheg speakers re-narrating the *Pear Stories* video. Data collection was part of a bigger project and took place from [time] in Zurich, Pristina and Munich. Only recordings from Pristina und Zurich were included in the treebank. Speakers of different generations were interviewed, age ranging from 10 to 67. Sentence ids contain information on location (P for Pristina or Z for Zurich), Generation (G1, G2, G3) and a unique speaker id, all separated by hyphens, followed by an underscore and the sentence id, which starts at 1 for each interview. Due to the multilingual setting, the treebank contains many instances of code-switching (mostly Swiss-German). It also exhibits characteristics of (semi-)spontaneous speech, like disfluencies and corrections.
+UD Gheg GPS contains 967 sentences from 64 recordings of Gheg speakers re-narrating the *Pear Stories* video. Data collection was part of a bigger project that took place from May 2019 to July 2022 in Zurich, Prishtina and Munich. Only recordings from Prishtina und Zurich were included in the treebank. Speakers of three different generations were interviewed, age ranging from 10 to 67. Sentence ids contain information on location (`P` for Prishtina, `Z` for Zurich), Generation (`G1`, `G2`, `G3`) and a unique speaker id, all separated by hyphens, followed by an underscore and the sentence id, which starts at 1 for each interview. Due to the multilingual setting, the treebank contains many instances of code-switching (mostly Swiss-German). It also exhibits characteristics of (semi-)spontaneous speech, like disfluencies and corrections.
 
-Since the treebank contains less than 20k tokens, it was not split into training and test set.
+The treebank contains 16k tokens and was not split into training and test set.
 
 # Acknowledgments
 
@@ -16,7 +16,7 @@ Since the treebank contains less than 20k tokens, it was not split into training
 - Barbara Sonnenhauser, Paul Widmer: Project supervision
 - Magdalena Plamada: Technical support
 
-The project was funded by the SNSF [TODO]
+The project was funded by the SNSF grant No. 100015L_182126/1.
 
 ## References
 
