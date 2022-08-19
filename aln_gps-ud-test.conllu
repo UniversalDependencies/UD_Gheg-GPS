@@ -1751,7 +1751,7 @@
 6	biqikle:t	biçikletë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	_
 7	dhe	dhe	CCONJ	_	_	12	cc	_	_
 8	të	të	DET	_	_	9	det	_	_
-9	gjitha	gjithë	PRON	_	Definite=Ind|Gender=Fem|Number=Plur	10	det	_	_
+9	gjitha	gjithë	PRON	_	Gender=Fem|Number=Plur	10	det	_	_
 10	da:rdhat	dardhë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	obj	_	_
 11	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	12	iobj	_	_
 12	derdhën	derdh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
@@ -3960,7 +3960,7 @@
 7	e	e	DET	_	Case=Acc|Number=Sing	8	det	_	_
 8	ti	ti	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	nmod	_	_
 9	edhe	edhe	CCONJ	_	_	12	cc	_	_
-10	njeni	njeni	PRON	_	Definite=Ind|Gender=Masc|Number=Sing	12	nsubj	_	_
+10	njeni	njeni	PRON	_	Gender=Masc|Number=Sing	12	nsubj	_	_
 11	i	i	PRON	_	Case=Dat|Number=Sing|Person=3	12	obj	_	_
 12	fishlloj	fishlloj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 13	tha	thom	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
@@ -5513,7 +5513,7 @@
 # sent_id = Z-A-G2-RINI99_19
 # text = edhe nja:ni tani j a jep kapelen .
 1	edhe	edhe	CCONJ	_	_	6	cc	_	_
-2	nja:ni	njani	PRON	_	Definite=Ind|Gender=Masc	6	nsubj	_	_
+2	nja:ni	njani	PRON	_	Gender=Masc	6	nsubj	_	_
 3	tani	tani	ADV	_	_	6	advmod	_	_
 4	j	j	PRON	_	Case=Dat|Number=Sing|Person=3	6	iobj	_	_
 5	a	a	PRON	_	Case=Acc|Number=Sing|Person=3	6	expl	_	_
@@ -8181,7 +8181,7 @@
 7	me	me	ADP	_	_	8	case	_	_
 8	da:rdha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	6	nmod	_	_
 9	rrëmben	rrëmbej	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	njërën	një	PRON	_	Definite=Ind|Gender=Fem|Number=Sing	9	obj	_	_
+10	njërën	një	PRON	_	Gender=Fem|Number=Sing	9	obj	_	_
 11	nga	nga	ADP	_	_	12	case	_	_
 12	shpo:rtat	shportë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	10	nmod	_	_
 13	me	me	ADP	_	_	14	case	_	_
@@ -8291,7 +8291,7 @@
 
 # sent_id = P-A-G1-ZEBO54_8
 # text = një:ri nga djelmo:shat mba:n tri da:rdha dhe i nda:n me sho:kët .
-1	një:ri	njëri	PRON	_	Definite=Ind|Gender=Masc	4	nsubj	_	_
+1	një:ri	njëri	PRON	_	Gender=Masc	4	nsubj	_	_
 2	nga	nga	ADP	_	_	3	case	_	_
 3	djelmo:shat	djalosh	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	nmod	_	_
 4	mba:n	mbaj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -8335,7 +8335,7 @@
 # sent_id = Z-A-G3-LALI08_1
 # text = po njoni qik me bicikel e ka vjedh me ni kofe me: da:rdha edhe iki tani ka ardh me ni tjeter me bicikul j a ka mshu s u rrujt ka ra: krejt da:rdhat jan ra: edhe tre djemt kan ardh j a kan ndimu krejt ë vetëm kapuqi n tok ka met .
 1	po	po	CCONJ	_	_	8	cc	_	_
-2	njoni	njoni	PRON	_	Definite=Def|Gender=Fem	3	det	_	_
+2	njoni	njoni	PRON	_	Gender=Fem	3	det	_	_
 3	qik	çikë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	nsubj	_	_
 4	me	me	ADP	_	_	5	case	_	_
 5	bicikel	bicikëll	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	_
@@ -8736,7 +8736,7 @@
 23	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	24	expl	_	_
 24	mbledhte	mbledhi	VERB	_	Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Act	21	ccomp	_	_
 25	të	të	DET	_	Case=Acc|Number=Plur	26	det	_	_
-26	gjitha	gjithë	PRON	_	Definite=Ind|Gender=Fem	28	amod	_	_
+26	gjitha	gjithë	PRON	_	Gender=Fem	28	amod	_	_
 27	ato:	ato	PRON	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	28	det	_	_
 28	da:rdha:	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	24	obj	_	_
 29	dhe	dhe	CCONJ	_	_	31	cc	_	_
@@ -12443,7 +12443,7 @@
 6	me	me	PART	_	_	7	mark	_	_
 7	shku	shkoj	VERB	_	VerbForm=Inf	4	xcomp	_	_
 8	amo	ama	CCONJ	_	_	11	cc	_	_
-9	njoni	njoni	PRON	_	Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	_
+9	njoni	njoni	PRON	_	Gender=Masc|Number=Sing	11	nsubj	_	_
 10	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	11	obj	_	_
 11	thirri	thirri	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
 12	edhe	edhe	CCONJ	_	_	13	cc	_	_
@@ -12502,7 +12502,7 @@
 8	e	e	CCONJ	_	_	9	obj	_	_
 9	pa	pa	ADP	_	_	7	conj	_	_
 10	qe	që	SCONJ	_	_	14	mark	_	_
-11	njana	njana	PRON	_	Definite=Ind|Gender=Fem|Number=Sing	12	det	_	_
+11	njana	njana	PRON	_	Gender=Fem|Number=Sing	12	det	_	_
 12	korp	korpë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	14	nsubj	_	_
 13	u	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
 14	ka	kam	VERB	_	VerbForm=Part	7	xcomp	_	_
@@ -13811,7 +13811,7 @@
 20	apo	apo	CCONJ	_	_	21	cc	_	_
 21	dy:	dy	NUM	_	NumType=Card	19	conj	_	_
 22	se:	se	SCONJ	_	_	27	mark	_	_
-23	njo:na	njona	PRON	_	Definite=Def|Gender=Fem	27	obj	_	_
+23	njo:na	njona	PRON	_	Gender=Fem	27	obj	_	_
 24	vetëm	vetëm	ADV	_	_	27	advmod	_	_
 25	se:	se	SCONJ	_	_	27	mark	_	_
 26	kishte:	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	27	aux	_	_
@@ -14917,7 +14917,7 @@
 # text = u kthy njani prej: atynve treve djemve j a dha kapuqin .
 1	u	u	PART	_	_	2	mark	_	_
 2	kthy	kthehna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	njani	njani	PRON	_	Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
+3	njani	njani	PRON	_	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	prej:	prej	ADP	_	_	5	case	_	_
 5	atynve	atynve	PRON	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
 6	treve	treve	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	7	nummod	_	_
@@ -15374,7 +15374,7 @@
 # text = ata tani: njoni e merr kapuqin edhe aj i fishllon atina djalit me bicikul edhe: j a bjen ket kapuqin e vet e vnon .
 1	ata	ata	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	reparandum	_	_
 2	tani:	tani	ADV	_	_	5	advmod	_	_
-3	njoni	njoni	PRON	_	Definite=Def|Gender=Masc	5	nsubj	_	_
+3	njoni	njoni	PRON	_	Gender=Masc	5	nsubj	_	_
 4	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	5	expl	_	_
 5	merr	marr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	kapuqin	kapuq	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	obj	_	_
@@ -16357,9 +16357,9 @@
 10	dha	jap	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
 11	tri	tre	NUM	_	Gender=Fem|NumType=Card	12	nummod	_	_
 12	dardha	dardhë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	10	obj	_	_
-13	sicili	sicili	PRON	_	Definite=Ind|Gender=Masc|Number=Sing	19	nsubj	_	_
+13	sicili	sicili	PRON	_	Gender=Masc|Number=Sing	19	nsubj	_	_
 14	per	per	ADP	_	_	15	case	_	_
-15	sicilli	sicilli	PRON	_	Definite=Ind|Gender=Masc|Number=Sing	13	nmod	_	_
+15	sicilli	sicilli	PRON	_	Gender=Masc|Number=Sing	13	nmod	_	_
 16	ka	ka	ADV	_	_	17	advmod	_	_
 17	nja	nja	NUM	_	NumType=Card	19	obj	_	_
 18	e	e	PRON	_	Case=Acc|Number=Sing|Person=3	19	expl	_	_
@@ -17347,7 +17347,7 @@
 # sent_id = Z-A-G2-TATI87_17
 # text = dhe: njo:ni prej atynve treve e vrejti e që i ka ra kape:la n tok ati djalit e mur dhe j a dergoj ati: .
 1	dhe:	dhe	CCONJ	_	_	2	cc	_	_
-2	njo:ni	njoni	PRON	_	Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	njo:ni	njoni	PRON	_	Gender=Masc|Number=Sing	7	nsubj	_	_
 3	prej	prej	ADP	_	_	5	case	_	_
 4	atynve	atynve	PRON	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
 5	treve	treve	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	2	nmod	_	_
@@ -18844,7 +18844,7 @@
 13	ë:jn	ëjn	INTJ	_	_	12	discourse	_	_
 14	i	i	PRON	_	Case=Acc|Number=Plur|Person=3	15	obj	_	_
 15	pa:	shoh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
-16	njo:ni	njoni	PRON	_	Definite=Def|Gender=Masc	15	nsubj	_	_
+16	njo:ni	njoni	PRON	_	Gender=Masc	15	nsubj	_	_
 17	që:	që	PRON	_	PronType=Rel	18	reparandum	_	_
 18	që	që	PRON	_	PronType=Rel	20	obj	_	_
 19	o	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
