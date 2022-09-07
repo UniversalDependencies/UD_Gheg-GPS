@@ -15424,7 +15424,7 @@
 11	tre	tre	NUM	_	Gender=Masc|NumType=Card	12	nummod	_	_
 12	djemt	djalë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	9	obj	_	_
 13	tu	tu	AUX	_	_	15	reparandum	_	_
-14	ëhëm	ëhm	INTJ	_	_	15	discourse	_	_
+14	ëhëm	ëhm	INTJ	_	_	16	discourse	_	_
 15	tu	tu	AUX	_	_	16	aux:part	_	_
 16	hec	heci	VERB	_	VerbForm=Part	9	xcomp	_	_
 17	ngat	ngat	ADP	_	_	19	case	_	_
