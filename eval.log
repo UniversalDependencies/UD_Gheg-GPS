@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Gheg-GPS:
-commit cf1e0a961537453f7de7615c812aa0b6321a4d30
+commit dbc0868cdc8287b66ecb253e6a3d6fa5d2be4dcd
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 11:08:48 2022 +0100
+Date:   Tue May 9 10:31:34 2023 +0200
 Size: counted 15990 of 15990 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.54392705369173.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       2611
-Udapi: found 2611 bugs.
+               TOTAL       2610
+Udapi: found 2610 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 15990 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang aln --max-err=10 UD_Gheg-GPS/aln_gps-ud-test.conllu
