@@ -37,14 +37,14 @@
     <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON">2757</feat><!-- e, i, a, da:rdha, at, dardha, dardhat, da:rdhat, bicikell, dardh -->
     <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,PRON">715</feat><!-- i, j, m, ati, e, djalit, t, dja:lit, ati:, kti -->
     <feat name="Case" value="Gen" upos="DET,NOUN,PRON">46</feat><!-- e, tij, dardhes, kohës, ksi, rru:gës, t, ti, ti:j, veten -->
-    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON">1664</feat><!-- aj, ata, ky, i, djem, djali, djal, djemt, kta, ajo -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON">1663</feat><!-- aj, ata, ky, i, djem, djali, djal, djemt, kta, ajo -->
     <feat name="Definite" value="Def" upos="ADJ,NOUN">1146</feat><!-- dardhat, da:rdhat, djali, djemt, dardha:t, kapuqin, rru:gës, burri, kapelen, rru:gën -->
-    <feat name="Definite" value="Ind" upos="ADJ,DET,NOUN">1377</feat><!-- da:rdha, dardha, një, djem, korp, djal, dardh, dardha:, bicikell, tok -->
+    <feat name="Definite" value="Ind" upos="ADJ,DET,NOUN">1376</feat><!-- da:rdha, dardha, një, djem, korp, djal, dardh, dardha:, bicikell, tok -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">7</feat><!-- herët, larti, ngat, shum, vo:gël, von -->
     <feat name="Degree" value="Sup" upos="ADJ">1</feat><!-- pakti -->
     <feat name="Foreign" value="Yes" upos="ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,VERB">49</feat><!-- birne, a, hend, ihm, isch, kappe, abecheit, am, baum, belo:nig -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON">1847</feat><!-- da:rdha, dardha, dardhat, da:rdhat, tri, ato, korp, dardh, bicikell, dardha: -->
-    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON">2030</feat><!-- aj, tre, ata, ky, djem, djali, djal, djemt, kta, i -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON">2029</feat><!-- aj, tre, ata, ky, djem, djali, djal, djemt, kta, i -->
     <feat name="Mood" value="Adm" upos="AUX">2</feat><!-- paska -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">2436</feat><!-- ka, kan, u, osht, do, ishte, jan, kishte, kalon, sheh -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">19</feat><!-- shfrytzoj, akuzoj, binte, bëntë, fshihnin, japish, je:n, je:t, jep, jet -->
