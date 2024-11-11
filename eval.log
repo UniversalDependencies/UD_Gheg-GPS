@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Gheg-GPS:
-commit 1755dceedafbe67e6fb7a6dc002ddf22bcf6092e
+commit beeab3f685e1ecbb9b20220eab6a1a37ac0afb03
+Merge: 9a8d321 ab53187
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:03:32 2023 +0100
 Size: counted 15990 of 15990 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.54392705369173.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,9 @@ Udapi: found 2610 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 15990 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang aln --max-err=10 UD_Gheg-GPS/aln_gps-ud-test.conllu
+[Line 730 Sent Z-A-G1-IMNI89_11 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:kët:det --> 8:fmini::acl)
+[Line 1899 Sent Z-A-G2-MEQI91_3 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:nji:det --> 8:dikush:nsubj)
+Warnings: 2
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
