@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Gheg-GPS:
-commit beeab3f685e1ecbb9b20220eab6a1a37ac0afb03
-Merge: 9a8d321 ab53187
+commit da4785f21cfd7f6af91a05b3c1c072b2efbf120f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 11 15:35:39 2024 +0100
 Size: counted 15990 of 15990 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.54392705369173.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,24 +20,40 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       2610
-Udapi: found 2610 bugs.
+               TOTAL       2501
+Udapi: found 2501 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 15990 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang aln --max-err=10 UD_Gheg-GPS/aln_gps-ud-test.conllu
-[Line 730 Sent Z-A-G1-IMNI89_11 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:kët:det --> 8:fmini::acl)
-[Line 1899 Sent Z-A-G2-MEQI91_3 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:nji:det --> 8:dikush:nsubj)
-Warnings: 2
-*** PASSED ***
-Validity: 1
+[Line 232 Sent Z-A-G1-BLNI63_12 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'do me tha:' does not have the 'ExtPos' feature
+[Line 730 Sent Z-A-G1-IMNI89_11 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:kët:det --> 8:fmini::acl)
+[Line 1715 Sent P-A-G1-IMSA66_2 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'edhe se' does not have the 'ExtPos' feature
+[Line 1877 Sent Z-A-G2-MEQI91_2 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'do me thon' does not have the 'ExtPos' feature
+[Line 1899 Sent Z-A-G2-MEQI91_3 Node 9]: [L3 Syntax leaf-det] 'det' not expected to have children (9:nji:det --> 8:dikush:nsubj)
+[Line 2663 Sent Z-A-G3-TAMI04_4 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'dej dikur' does not have the 'ExtPos' feature
+[Line 3094 Sent Z-A-G2-QEAJ92_8 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'me niher' does not have the 'ExtPos' feature
+[Line 3094 Sent Z-A-G2-QEAJ92_8 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'me'
+[Line 3454 Sent Z-A-G1-NEKU60_3 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'deri sa:' does not have the 'ExtPos' feature
+[Line 3454 Sent Z-A-G1-NEKU60_3 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'deri'
+[Line 3490 Sent Z-A-G1-NEKU60_5 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'antej kentej' does not have the 'ExtPos' feature
+[Line 4123 Sent Z-A-G1-IMRI65_2 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
+[Line 4254 Sent Z-A-G1-IMRI65_9 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
+[Line 4308 Sent Z-A-G1-IMRI65_10 Node 26]: [L3 Warning fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 18142 Sent Z-A-G1-MIKO69_6 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'më'
+Syntax errors: 5
+Warnings: 67
+*** FAILED *** with 5 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.401282821248745) = 0.102893031089422
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.418257264100714) * (availability=1) * (validity=1) = 0.418257264100714
-STARS = 2
-UD_Gheg-GPS	0.418257264100714	2
+(TOTAL score=0.41800588149639) * (availability=1) * (validity=0.01) = 0.0041800588149639
+STARS = 0
+UD_Gheg-GPS	0.0041800588149639	0
