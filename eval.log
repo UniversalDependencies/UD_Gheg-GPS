@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Gheg-GPS:
-commit da4785f21cfd7f6af91a05b3c1c072b2efbf120f
+commit 449ec89b014f6ad1eb859ad2dc48b2b4818f1db3
+Merge: 7f6b03c 03ff664
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 15:35:39 2024 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'aln_gps'
+Language code (from CoNLL-U file name) = 'aln'
+Found the following data files: aln_gps-ud-test.conllu
 Size: counted 15990 of 15990 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.54392705369173.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,41 +23,42 @@ Features: 9739 out of 15990 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL       2501
-Udapi: found 2501 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 15990 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang aln --max-err=10 UD_Gheg-GPS/aln_gps-ud-test.conllu
-[Line 232 Sent Z-A-G1-BLNI63_12 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'do me tha:' does not have the 'ExtPos' feature
-[Line 730 Sent Z-A-G1-IMNI89_11 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:kët:det --> 8:fmini::acl)
-[Line 1715 Sent P-A-G1-IMSA66_2 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'edhe se' does not have the 'ExtPos' feature
-[Line 1877 Sent Z-A-G2-MEQI91_2 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'do me thon' does not have the 'ExtPos' feature
-[Line 1899 Sent Z-A-G2-MEQI91_3 Node 9]: [L3 Syntax leaf-det] 'det' not expected to have children (9:nji:det --> 8:dikush:nsubj)
-[Line 2663 Sent Z-A-G3-TAMI04_4 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'dej dikur' does not have the 'ExtPos' feature
-[Line 3094 Sent Z-A-G2-QEAJ92_8 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'me niher' does not have the 'ExtPos' feature
-[Line 3094 Sent Z-A-G2-QEAJ92_8 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'me'
-[Line 3454 Sent Z-A-G1-NEKU60_3 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'deri sa:' does not have the 'ExtPos' feature
-[Line 3454 Sent Z-A-G1-NEKU60_3 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'deri'
-[Line 3490 Sent Z-A-G1-NEKU60_5 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'antej kentej' does not have the 'ExtPos' feature
-[Line 4123 Sent Z-A-G1-IMRI65_2 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
-[Line 4254 Sent Z-A-G1-IMRI65_9 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
-[Line 4308 Sent Z-A-G1-IMRI65_10 Node 26]: [L3 Warning fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
+[Line 8 Sent Z-A-G1-BLNI63_1]: [L3 Warning pron-det-without-prontype] The word 'e' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 14 Sent Z-A-G1-BLNI63_1]: [L3 Warning pron-det-without-prontype] The word 'e' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 23 Sent Z-A-G1-BLNI63_2]: [L3 Warning pron-det-without-prontype] The word 'një' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 26 Sent Z-A-G1-BLNI63_2]: [L3 Warning pron-det-without-prontype] The word 'ni' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 28 Sent Z-A-G1-BLNI63_2]: [L3 Warning pron-det-without-prontype] The word 'i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 44 Sent Z-A-G1-BLNI63_3]: [L3 Warning pron-det-without-prontype] The word 'i' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 66 Sent Z-A-G1-BLNI63_4]: [L3 Warning pron-det-without-prontype] The word 'ni' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 76 Sent Z-A-G1-BLNI63_5]: [L3 Warning pron-det-without-prontype] The word 'j' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 77 Sent Z-A-G1-BLNI63_5]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 79 Sent Z-A-G1-BLNI63_5]: [L3 Warning pron-det-without-prontype] The word 'njanen' is tagged 'PRON' but it lacks the 'PronType' feature
 ...suppressing further errors regarding Warning
-[Line 18142 Sent Z-A-G1-MIKO69_6 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'më'
-Syntax errors: 5
-Warnings: 67
-*** FAILED *** with 5 errors
+[Line 730 Sent Z-A-G1-IMNI89_11]: [L3 Syntax leaf-det] 'det' not expected to have children (2:kët:det --> 8:fmini::acl)
+[Line 836 Sent Z-A-G2-URLI95_3]: [L3 Syntax too-many-objects] Multiple direct objects [6, 10] ('djal', 'djal') under the predicate 'shihet'.
+[Line 1899 Sent Z-A-G2-MEQI91_3]: [L3 Syntax leaf-det] 'det' not expected to have children (9:nji:det --> 8:dikush:nsubj)
+[Line 3094 Sent Z-A-G2-QEAJ92_8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('me')
+[Line 3454 Sent Z-A-G1-NEKU60_3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('deri')
+[Line 3529 Sent Z-A-G1-NEKU60_8]: [L3 Syntax too-many-objects] Multiple direct objects [4, 8] ('ë:h', 'djep') under the predicate 'sheh'.
+[Line 4038 Sent Z-A-G1-GANA56_16]: [L3 Syntax too-many-objects] Multiple direct objects [16, 20] ('qka', 'mollat') under the predicate 'tham'.
+[Line 4083 Sent Z-A-G1-GANA56_18]: [L3 Syntax too-many-objects] Multiple direct objects [14, 17] ('i', 'tre') under the predicate 'vren'.
+[Line 4634 Sent Z-A-G1-XHEHU63_1]: [L3 Syntax too-many-objects] Multiple direct objects [19, 24] ('se', 'dardha:') under the predicate 'vjel'.
+[Line 5131 Sent Z-A-G3-AMAJ07_17]: [L3 Syntax too-many-objects] Multiple direct objects [7, 13] ('qe', 'korpa') under the predicate 'ka'.
+...suppressing further errors regarding Syntax
+Syntax errors: 22
+Warnings: 2510
+*** FAILED *** with 22 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.401282821248745) = 0.102893031089422
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.41800588149639) * (availability=1) * (validity=0.01) = 0.0041800588149639
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.401282821248745) = 0.148623267129165
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
+(weight=0.111111111111111) * (score{udeprels}=0.891891891891892) = 0.0990990990990991
+(TOTAL score=0.599341828828119) * (availability=1) * (validity=0.01) = 0.00599341828828119
 STARS = 0
-UD_Gheg-GPS	0.0041800588149639	0
+UD_Gheg-GPS	0.00599341828828119	0
