@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Gheg-GPS:
-commit 449ec89b014f6ad1eb859ad2dc48b2b4818f1db3
-Merge: 7f6b03c 03ff664
+commit 98dea755eb0e21b35419c377e987c101e73a2ab8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 19:37:58 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'aln_gps'
 Language code (from CoNLL-U file name) = 'aln'
@@ -25,31 +25,42 @@ Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang aln --max-err=10 UD_Gheg-GPS/aln_gps-ud-test.conllu
-[Line 8 Sent Z-A-G1-BLNI63_1]: [L3 Warning pron-det-without-prontype] The word 'e' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 14 Sent Z-A-G1-BLNI63_1]: [L3 Warning pron-det-without-prontype] The word 'e' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 23 Sent Z-A-G1-BLNI63_2]: [L3 Warning pron-det-without-prontype] The word 'një' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 26 Sent Z-A-G1-BLNI63_2]: [L3 Warning pron-det-without-prontype] The word 'ni' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 28 Sent Z-A-G1-BLNI63_2]: [L3 Warning pron-det-without-prontype] The word 'i' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 44 Sent Z-A-G1-BLNI63_3]: [L3 Warning pron-det-without-prontype] The word 'i' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 66 Sent Z-A-G1-BLNI63_4]: [L3 Warning pron-det-without-prontype] The word 'ni' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 76 Sent Z-A-G1-BLNI63_5]: [L3 Warning pron-det-without-prontype] The word 'j' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 77 Sent Z-A-G1-BLNI63_5]: [L3 Warning pron-det-without-prontype] The word 'a' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 79 Sent Z-A-G1-BLNI63_5]: [L3 Warning pron-det-without-prontype] The word 'njanen' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 730 Sent Z-A-G1-IMNI89_11]: [L3 Syntax leaf-det] 'det' not expected to have children (2:kët:det --> 8:fmini::acl)
-[Line 836 Sent Z-A-G2-URLI95_3]: [L3 Syntax too-many-objects] Multiple direct objects [6, 10] ('djal', 'djal') under the predicate 'shihet'.
-[Line 1899 Sent Z-A-G2-MEQI91_3]: [L3 Syntax leaf-det] 'det' not expected to have children (9:nji:det --> 8:dikush:nsubj)
-[Line 3094 Sent Z-A-G2-QEAJ92_8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('me')
-[Line 3454 Sent Z-A-G1-NEKU60_3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('deri')
-[Line 3529 Sent Z-A-G1-NEKU60_8]: [L3 Syntax too-many-objects] Multiple direct objects [4, 8] ('ë:h', 'djep') under the predicate 'sheh'.
-[Line 4038 Sent Z-A-G1-GANA56_16]: [L3 Syntax too-many-objects] Multiple direct objects [16, 20] ('qka', 'mollat') under the predicate 'tham'.
-[Line 4083 Sent Z-A-G1-GANA56_18]: [L3 Syntax too-many-objects] Multiple direct objects [14, 17] ('i', 'tre') under the predicate 'vren'.
-[Line 4634 Sent Z-A-G1-XHEHU63_1]: [L3 Syntax too-many-objects] Multiple direct objects [19, 24] ('se', 'dardha:') under the predicate 'vjel'.
-[Line 5131 Sent Z-A-G3-AMAJ07_17]: [L3 Syntax too-many-objects] Multiple direct objects [7, 13] ('qe', 'korpa') under the predicate 'ka'.
-...suppressing further errors regarding Syntax
-Syntax errors: 22
-Warnings: 2510
-*** FAILED *** with 22 errors
+[Line 8 Sent Z-A-G1-BLNI63_1]: [L3 WARNING pron-det-without-prontype] The word 'e' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 14 Sent Z-A-G1-BLNI63_1]: [L3 WARNING pron-det-without-prontype] The word 'e' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 23 Sent Z-A-G1-BLNI63_2]: [L3 WARNING pron-det-without-prontype] The word 'një' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 26 Sent Z-A-G1-BLNI63_2]: [L3 WARNING pron-det-without-prontype] The word 'ni' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 28 Sent Z-A-G1-BLNI63_2]: [L3 WARNING pron-det-without-prontype] The word 'i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 44 Sent Z-A-G1-BLNI63_3]: [L3 WARNING pron-det-without-prontype] The word 'i' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 66 Sent Z-A-G1-BLNI63_4]: [L3 WARNING pron-det-without-prontype] The word 'ni' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 76 Sent Z-A-G1-BLNI63_5]: [L3 WARNING pron-det-without-prontype] The word 'j' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 77 Sent Z-A-G1-BLNI63_5]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 79 Sent Z-A-G1-BLNI63_5]: [L3 WARNING pron-det-without-prontype] The word 'njanen' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 232 Sent Z-A-G1-BLNI63_12]: [L3 WARNING fixed-without-extpos] Fixed expression 'do me tha:' does not have the 'ExtPos' feature
+[Line 716 Sent Z-A-G1-IMNI89_10]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'fmi:ja') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 730 Sent Z-A-G1-IMNI89_11]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:kët:det --> 8:fmini::acl)
+[Line 836 Sent Z-A-G2-URLI95_3]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 10] ('djal', 'djal') under the predicate 'shihet'.
+[Line 1207 Sent Z-A-G2-RAMI84_7]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'njer') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1715 Sent P-A-G1-IMSA66_2]: [L3 WARNING fixed-without-extpos] Fixed expression 'edhe se' does not have the 'ExtPos' feature
+[Line 1877 Sent Z-A-G2-MEQI91_2]: [L3 WARNING fixed-without-extpos] Fixed expression 'do me thon' does not have the 'ExtPos' feature
+[Line 1899 Sent Z-A-G2-MEQI91_3]: [L3 SYNTAX leaf-det] 'det' not expected to have children (9:nji:det --> 8:dikush:nsubj)
+[Line 1905 Sent Z-A-G2-MEQI91_3]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'pe:me') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2314 Sent Z-A-G2-RIHU97_7]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'person') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2663 Sent Z-A-G3-TAMI04_4]: [L3 WARNING fixed-without-extpos] Fixed expression 'dej dikur' does not have the 'ExtPos' feature
+[Line 2950 Sent Z-A-G1-NIQI67_11]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'herën') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3094 Sent Z-A-G2-QEAJ92_8]: [L3 WARNING fixed-without-extpos] Fixed expression 'me niher' does not have the 'ExtPos' feature
+[Line 3094 Sent Z-A-G2-QEAJ92_8]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('me')
+[Line 3454 Sent Z-A-G1-NEKU60_3]: [L3 WARNING fixed-without-extpos] Fixed expression 'deri sa:' does not have the 'ExtPos' feature
+[Line 3454 Sent Z-A-G1-NEKU60_3]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('deri')
+[Line 3490 Sent Z-A-G1-NEKU60_5]: [L3 WARNING fixed-without-extpos] Fixed expression 'antej kentej' does not have the 'ExtPos' feature
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 4123 Sent Z-A-G1-IMRI65_2]: [L3 WARNING fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
+[Line 4254 Sent Z-A-G1-IMRI65_9]: [L3 WARNING fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
+[Line 4308 Sent Z-A-G1-IMRI65_10]: [L3 WARNING fixed-without-extpos] Fixed expression 'do më thon' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 2497
+SYNTAX errors: 35
+*** FAILED *** with 35 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
